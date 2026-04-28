@@ -10,6 +10,7 @@ services:
     ports:
       - "${DB1_PORT}:5432"
     volumes:
+      - ./init-db:/docker-entrypoint-initdb.d
       - db1_data:/var/lib/postgresql/data
 
   pgadmin:
