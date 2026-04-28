@@ -1,0 +1,28 @@
+services:
+  db1:
+    image: postgres:17.1
+    container_name: db1_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: ${DB1_NAME}
+      POSTGRES_USER: ${DB1_USER}
+      POSTGRES_PASSWORD: ${DB1_PASSWORD}
+    ports:
+      - "${DB1_PORT}:5432"
+    volumes:
+      - db1_data:/var/lib/postgresql/data
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin_container
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD}
+    ports:
+      - "${PGADMIN_PORT}:80"
+    depends_on:
+      - db1
+
+volumes:
+  db1_data:
