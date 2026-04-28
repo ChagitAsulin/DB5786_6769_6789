@@ -1,0 +1,501 @@
+backup_id,backup_type,backup_date,status,performed_by
+1,Cloud,2024-01-24,Success,74
+2,Incremental,2024-03-25,Failed,448
+3,Cloud,2026-03-05,Failed,218
+4,Full,2025-12-07,Success,436
+5,Cloud,2024-06-05,In Progress,428
+6,Cloud,2025-01-15,Failed,135
+7,Cloud,2025-10-13,Success,117
+8,Incremental,2024-02-28,Failed,224
+9,Differential,2024-12-22,Failed,6
+10,Full,2025-05-17,Success,261
+11,Differential,2025-10-02,Failed,409
+12,Incremental,2026-01-19,Success,230
+13,Differential,2026-03-31,Failed,340
+14,Incremental,2024-05-21,In Progress,261
+15,Full,2025-03-08,Failed,169
+16,Cloud,2024-08-21,Success,289
+17,Full,2026-02-08,Success,130
+18,Cloud,2024-02-02,Failed,421
+19,Incremental,2025-09-29,Success,453
+20,Full,2024-09-25,In Progress,4
+21,Differential,2024-01-27,Success,357
+22,Differential,2024-01-04,Success,40
+23,Cloud,2025-03-17,In Progress,420
+24,Differential,2024-01-07,Success,226
+25,Full,2024-03-12,In Progress,243
+26,Incremental,2025-05-09,In Progress,317
+27,Differential,2025-01-28,Failed,82
+28,Incremental,2026-04-15,Failed,337
+29,Incremental,2024-11-11,Success,407
+30,Incremental,2025-04-01,In Progress,260
+31,Differential,2025-05-09,Failed,229
+32,Incremental,2024-04-27,Failed,353
+33,Incremental,2026-01-24,Success,406
+34,Incremental,2025-07-03,Failed,431
+35,Differential,2025-04-12,Success,413
+36,Differential,2024-05-25,In Progress,67
+37,Cloud,2025-05-19,In Progress,193
+38,Differential,2025-07-30,Success,1
+39,Differential,2025-09-15,Success,332
+40,Incremental,2024-09-28,Failed,348
+41,Full,2024-06-03,Failed,234
+42,Incremental,2026-01-12,In Progress,459
+43,Full,2025-02-24,In Progress,355
+44,Full,2024-06-08,Success,303
+45,Differential,2025-08-30,Failed,217
+46,Incremental,2024-07-28,Success,226
+47,Incremental,2024-05-11,Failed,388
+48,Full,2024-11-23,Failed,161
+49,Full,2025-11-22,Failed,394
+50,Cloud,2025-10-06,In Progress,51
+51,Incremental,2025-05-05,Failed,413
+52,Incremental,2025-09-29,Success,38
+53,Cloud,2025-08-15,In Progress,257
+54,Differential,2024-10-26,In Progress,43
+55,Full,2024-07-01,Failed,141
+56,Differential,2024-01-25,Success,235
+57,Differential,2025-11-11,Failed,186
+58,Differential,2025-08-26,Success,485
+59,Cloud,2025-06-08,Failed,22
+60,Full,2025-09-13,Success,267
+61,Cloud,2025-02-26,Success,480
+62,Cloud,2025-10-24,Failed,78
+63,Full,2026-02-05,In Progress,353
+64,Incremental,2024-02-10,Failed,59
+65,Incremental,2026-02-26,In Progress,244
+66,Cloud,2024-12-26,Success,475
+67,Cloud,2025-07-13,Failed,217
+68,Cloud,2025-07-14,Success,389
+69,Cloud,2025-10-23,In Progress,55
+70,Incremental,2024-10-04,In Progress,184
+71,Full,2025-01-26,Failed,499
+72,Full,2025-12-11,Failed,95
+73,Differential,2024-04-11,Failed,405
+74,Cloud,2025-03-28,Success,199
+75,Incremental,2026-03-23,In Progress,89
+76,Differential,2024-07-31,Failed,296
+77,Differential,2025-03-14,Failed,20
+78,Cloud,2025-06-02,In Progress,384
+79,Cloud,2026-01-12,Failed,32
+80,Differential,2025-04-21,Failed,485
+81,Cloud,2026-02-06,Failed,148
+82,Incremental,2024-07-26,Failed,102
+83,Cloud,2024-11-16,In Progress,162
+84,Incremental,2025-08-13,Failed,35
+85,Cloud,2026-02-24,Failed,59
+86,Incremental,2024-05-11,Failed,337
+87,Incremental,2025-10-10,In Progress,411
+88,Cloud,2024-05-02,Failed,30
+89,Full,2025-12-02,In Progress,51
+90,Cloud,2025-07-26,Success,314
+91,Cloud,2025-02-11,In Progress,158
+92,Cloud,2024-10-15,Success,263
+93,Cloud,2025-06-12,In Progress,413
+94,Incremental,2024-12-07,Success,340
+95,Incremental,2026-04-04,Failed,222
+96,Full,2025-07-16,Success,89
+97,Cloud,2024-01-09,Success,56
+98,Incremental,2025-06-24,Success,245
+99,Differential,2025-05-21,Failed,284
+100,Full,2026-01-20,Success,362
+101,Cloud,2025-12-13,Success,294
+102,Incremental,2025-04-02,Failed,370
+103,Incremental,2024-01-16,Success,51
+104,Cloud,2026-02-07,Failed,109
+105,Incremental,2026-02-06,Failed,388
+106,Incremental,2025-11-20,Success,29
+107,Cloud,2024-04-07,Failed,20
+108,Full,2024-11-28,Failed,153
+109,Differential,2024-02-02,Success,45
+110,Full,2025-02-06,In Progress,228
+111,Full,2025-11-03,Failed,467
+112,Differential,2025-11-02,Failed,307
+113,Differential,2026-04-23,In Progress,256
+114,Cloud,2026-02-23,Failed,19
+115,Differential,2024-01-13,Failed,433
+116,Full,2025-03-01,Failed,452
+117,Full,2025-06-08,Success,201
+118,Incremental,2024-09-26,Success,395
+119,Incremental,2025-02-22,Failed,320
+120,Incremental,2024-09-13,Success,84
+121,Differential,2025-07-02,Failed,314
+122,Differential,2025-03-03,Failed,10
+123,Incremental,2024-10-28,Failed,312
+124,Cloud,2025-11-28,In Progress,253
+125,Incremental,2024-05-02,In Progress,355
+126,Full,2024-10-15,In Progress,349
+127,Full,2025-08-05,Failed,444
+128,Differential,2025-12-08,Failed,386
+129,Differential,2025-09-05,In Progress,355
+130,Incremental,2024-10-01,In Progress,456
+131,Differential,2024-01-01,Success,177
+132,Cloud,2026-01-13,Success,330
+133,Differential,2025-07-28,Success,286
+134,Cloud,2025-01-15,Failed,282
+135,Incremental,2024-12-28,Failed,288
+136,Differential,2024-03-01,Success,419
+137,Cloud,2024-10-16,Success,328
+138,Cloud,2024-12-22,In Progress,83
+139,Differential,2024-02-29,In Progress,312
+140,Full,2024-09-17,Success,478
+141,Cloud,2024-12-18,Success,412
+142,Differential,2024-05-21,Success,52
+143,Incremental,2025-05-11,In Progress,444
+144,Differential,2024-02-02,Success,203
+145,Cloud,2024-12-10,Success,455
+146,Cloud,2024-10-26,In Progress,407
+147,Full,2025-11-18,Success,5
+148,Full,2024-10-07,Success,392
+149,Cloud,2025-09-03,Failed,384
+150,Differential,2024-07-09,Failed,149
+151,Incremental,2025-03-31,Success,405
+152,Differential,2026-01-16,Failed,144
+153,Differential,2025-10-02,Success,207
+154,Incremental,2026-04-28,In Progress,254
+155,Incremental,2024-11-24,Failed,375
+156,Incremental,2026-04-18,Failed,113
+157,Full,2025-06-28,Failed,259
+158,Differential,2024-08-07,Failed,245
+159,Incremental,2025-02-08,Success,468
+160,Cloud,2025-11-13,In Progress,164
+161,Cloud,2024-10-04,Success,464
+162,Cloud,2026-04-29,In Progress,275
+163,Full,2024-06-05,Failed,152
+164,Differential,2026-04-01,Failed,196
+165,Incremental,2024-12-01,Success,79
+166,Differential,2025-09-12,Failed,486
+167,Differential,2025-03-15,In Progress,497
+168,Differential,2025-12-29,In Progress,388
+169,Full,2025-01-05,Failed,47
+170,Full,2024-10-14,Success,180
+171,Full,2025-01-18,Success,492
+172,Differential,2025-07-22,Success,118
+173,Differential,2024-05-03,In Progress,405
+174,Differential,2025-04-15,Success,181
+175,Differential,2024-10-08,In Progress,210
+176,Differential,2025-04-29,Failed,207
+177,Cloud,2025-10-12,Success,381
+178,Incremental,2025-01-14,Failed,356
+179,Incremental,2025-08-30,Success,295
+180,Differential,2025-04-11,In Progress,334
+181,Cloud,2024-06-23,Failed,448
+182,Incremental,2026-04-04,Failed,481
+183,Incremental,2025-07-23,Failed,49
+184,Cloud,2026-03-10,Success,338
+185,Incremental,2024-02-02,Success,54
+186,Full,2024-05-08,Success,146
+187,Differential,2025-01-27,Success,5
+188,Full,2024-04-13,Success,256
+189,Cloud,2026-03-19,Success,227
+190,Full,2025-02-05,Success,218
+191,Cloud,2025-10-15,Failed,10
+192,Cloud,2025-11-05,Success,489
+193,Differential,2024-07-24,In Progress,401
+194,Differential,2024-12-31,In Progress,31
+195,Incremental,2025-11-05,Success,132
+196,Differential,2024-12-31,In Progress,97
+197,Full,2025-08-25,Failed,99
+198,Cloud,2025-11-09,Success,486
+199,Full,2025-07-09,Success,286
+200,Differential,2024-08-11,In Progress,302
+201,Cloud,2025-02-19,Failed,269
+202,Incremental,2025-12-28,In Progress,204
+203,Cloud,2024-06-20,Failed,287
+204,Differential,2026-03-06,Failed,275
+205,Differential,2025-07-13,In Progress,500
+206,Cloud,2025-09-19,Success,159
+207,Differential,2025-07-13,Success,238
+208,Cloud,2024-10-02,In Progress,334
+209,Incremental,2025-08-27,Success,453
+210,Differential,2026-02-24,Success,352
+211,Full,2025-08-10,Failed,40
+212,Full,2026-01-24,Failed,307
+213,Differential,2024-01-01,In Progress,264
+214,Full,2024-11-12,Failed,283
+215,Cloud,2024-05-08,Success,110
+216,Full,2024-10-03,In Progress,153
+217,Full,2025-08-14,In Progress,379
+218,Full,2024-04-27,In Progress,436
+219,Cloud,2025-04-29,In Progress,327
+220,Differential,2026-02-28,Failed,239
+221,Full,2024-01-20,In Progress,247
+222,Cloud,2024-03-12,Failed,445
+223,Cloud,2024-09-05,Success,81
+224,Differential,2025-06-12,Failed,483
+225,Differential,2024-12-15,Failed,56
+226,Cloud,2025-03-05,Failed,22
+227,Incremental,2024-08-21,Success,198
+228,Full,2026-04-23,Success,38
+229,Differential,2026-04-23,Success,75
+230,Incremental,2025-12-31,In Progress,11
+231,Cloud,2024-11-14,Failed,24
+232,Full,2026-01-15,Success,114
+233,Incremental,2025-06-16,Failed,311
+234,Differential,2024-11-06,Failed,476
+235,Full,2024-11-22,Failed,378
+236,Cloud,2025-07-29,In Progress,338
+237,Full,2025-10-20,Failed,421
+238,Cloud,2024-08-23,Failed,414
+239,Cloud,2024-02-21,Success,17
+240,Differential,2024-07-05,Failed,371
+241,Incremental,2024-12-03,Success,142
+242,Full,2024-10-29,In Progress,464
+243,Incremental,2024-02-22,Failed,306
+244,Differential,2025-07-12,In Progress,214
+245,Incremental,2025-07-16,Success,85
+246,Full,2024-01-15,In Progress,162
+247,Differential,2024-04-30,Failed,497
+248,Differential,2024-01-28,Failed,408
+249,Differential,2025-01-20,Failed,111
+250,Differential,2024-03-20,Failed,36
+251,Cloud,2024-07-29,Success,496
+252,Differential,2024-12-04,Failed,484
+253,Incremental,2025-01-10,Success,211
+254,Cloud,2025-09-20,Failed,110
+255,Incremental,2025-03-31,Failed,7
+256,Cloud,2024-01-15,Success,433
+257,Differential,2026-02-15,In Progress,208
+258,Incremental,2025-06-01,Failed,36
+259,Incremental,2026-01-20,Failed,142
+260,Cloud,2025-04-25,Failed,207
+261,Cloud,2024-04-17,Success,60
+262,Differential,2024-05-23,Success,290
+263,Cloud,2025-09-02,In Progress,64
+264,Incremental,2026-04-10,Success,368
+265,Full,2024-08-16,Failed,250
+266,Full,2025-02-17,Failed,242
+267,Differential,2026-01-03,In Progress,186
+268,Differential,2025-04-21,In Progress,427
+269,Cloud,2025-03-09,Success,102
+270,Differential,2025-07-08,Failed,198
+271,Cloud,2025-03-26,Failed,492
+272,Cloud,2024-05-03,In Progress,363
+273,Differential,2024-04-27,Success,103
+274,Cloud,2026-03-19,Success,355
+275,Differential,2024-11-10,Failed,345
+276,Incremental,2024-04-06,Failed,283
+277,Cloud,2025-03-18,In Progress,210
+278,Cloud,2024-12-04,Success,241
+279,Incremental,2025-08-07,Failed,332
+280,Incremental,2026-02-08,Success,319
+281,Cloud,2025-08-30,Success,107
+282,Differential,2025-01-04,Success,282
+283,Cloud,2024-07-02,Success,317
+284,Differential,2025-04-16,In Progress,349
+285,Cloud,2025-09-17,Failed,361
+286,Differential,2026-03-26,In Progress,401
+287,Full,2026-01-07,In Progress,11
+288,Incremental,2024-03-19,Success,372
+289,Cloud,2024-08-25,In Progress,194
+290,Full,2025-08-18,Failed,229
+291,Incremental,2026-03-05,Success,407
+292,Incremental,2024-05-18,Success,372
+293,Incremental,2024-06-04,Success,307
+294,Full,2025-05-19,Success,27
+295,Incremental,2025-07-03,Failed,425
+296,Full,2025-05-27,In Progress,3
+297,Cloud,2024-02-27,Success,234
+298,Cloud,2024-06-09,Success,149
+299,Full,2025-10-30,In Progress,487
+300,Full,2024-07-17,Failed,228
+301,Differential,2024-08-29,Success,203
+302,Incremental,2025-09-28,Success,268
+303,Differential,2024-08-01,Failed,44
+304,Incremental,2026-04-21,Failed,293
+305,Cloud,2025-04-03,Failed,261
+306,Differential,2025-06-08,In Progress,220
+307,Incremental,2025-04-11,Failed,499
+308,Differential,2024-03-09,Failed,97
+309,Incremental,2024-10-07,Failed,215
+310,Cloud,2024-06-07,Failed,99
+311,Full,2024-02-20,In Progress,168
+312,Full,2025-05-26,Success,417
+313,Incremental,2024-09-22,In Progress,364
+314,Cloud,2024-07-11,Failed,53
+315,Cloud,2025-03-06,Failed,76
+316,Incremental,2024-12-20,In Progress,126
+317,Incremental,2026-01-04,Failed,87
+318,Differential,2025-08-01,Failed,68
+319,Incremental,2026-04-22,In Progress,192
+320,Full,2025-10-09,Failed,470
+321,Cloud,2024-05-09,In Progress,272
+322,Incremental,2025-04-23,Success,103
+323,Incremental,2024-12-17,Success,288
+324,Differential,2024-08-23,Success,240
+325,Full,2025-08-06,Success,168
+326,Full,2026-03-24,In Progress,390
+327,Full,2024-12-20,In Progress,373
+328,Cloud,2025-03-01,In Progress,196
+329,Cloud,2026-03-17,Failed,389
+330,Differential,2024-01-08,Success,128
+331,Differential,2025-12-11,Failed,130
+332,Full,2024-12-26,In Progress,309
+333,Incremental,2024-03-02,Failed,79
+334,Cloud,2026-04-05,In Progress,19
+335,Incremental,2024-10-31,In Progress,148
+336,Cloud,2025-06-06,Failed,110
+337,Cloud,2024-03-04,In Progress,263
+338,Full,2025-10-01,In Progress,436
+339,Full,2025-09-10,Success,440
+340,Cloud,2025-06-30,Failed,4
+341,Incremental,2025-08-30,Success,445
+342,Cloud,2025-08-13,Failed,102
+343,Differential,2026-01-28,Failed,152
+344,Cloud,2024-09-01,Success,490
+345,Incremental,2025-04-26,Success,157
+346,Differential,2024-03-01,Success,98
+347,Incremental,2024-09-29,Failed,420
+348,Incremental,2024-09-25,Failed,105
+349,Full,2024-08-23,Failed,427
+350,Full,2025-08-22,Failed,255
+351,Cloud,2026-02-23,Failed,252
+352,Cloud,2024-06-14,In Progress,442
+353,Incremental,2024-08-28,In Progress,212
+354,Differential,2026-03-14,In Progress,55
+355,Full,2024-04-21,Success,185
+356,Cloud,2025-11-06,Failed,315
+357,Cloud,2024-11-09,Success,117
+358,Cloud,2025-02-20,In Progress,402
+359,Cloud,2025-03-13,Failed,406
+360,Incremental,2024-09-21,In Progress,292
+361,Full,2024-04-13,Success,454
+362,Cloud,2026-01-20,Failed,469
+363,Differential,2024-04-02,In Progress,254
+364,Cloud,2025-03-30,In Progress,460
+365,Incremental,2024-09-02,Failed,252
+366,Full,2025-11-29,In Progress,239
+367,Differential,2025-08-04,Success,120
+368,Incremental,2026-02-25,In Progress,81
+369,Differential,2024-10-06,Success,40
+370,Differential,2025-10-02,Failed,384
+371,Full,2026-03-19,Failed,481
+372,Cloud,2024-03-02,Failed,440
+373,Incremental,2024-01-25,Success,378
+374,Cloud,2024-11-01,Success,120
+375,Differential,2026-04-27,Success,353
+376,Full,2025-12-25,In Progress,2
+377,Full,2025-09-03,Success,175
+378,Cloud,2024-03-12,Success,131
+379,Differential,2026-02-06,Failed,90
+380,Full,2025-06-25,In Progress,22
+381,Differential,2024-12-12,Failed,476
+382,Differential,2025-02-16,In Progress,50
+383,Differential,2026-03-25,Failed,473
+384,Full,2024-08-06,Success,329
+385,Full,2025-02-19,Success,127
+386,Differential,2025-08-14,In Progress,289
+387,Full,2025-10-21,Success,381
+388,Cloud,2025-03-14,In Progress,216
+389,Incremental,2024-03-10,Failed,432
+390,Full,2024-10-12,Success,304
+391,Differential,2026-02-13,Success,216
+392,Incremental,2025-08-04,Success,126
+393,Full,2025-09-09,In Progress,303
+394,Cloud,2024-05-23,Failed,9
+395,Cloud,2025-02-27,Success,36
+396,Differential,2024-11-27,Success,127
+397,Cloud,2026-04-05,In Progress,133
+398,Differential,2025-09-04,Failed,370
+399,Incremental,2026-04-04,In Progress,270
+400,Cloud,2026-02-14,In Progress,340
+401,Cloud,2025-01-13,In Progress,385
+402,Differential,2024-07-03,Failed,345
+403,Differential,2025-06-07,In Progress,347
+404,Differential,2025-05-25,Failed,204
+405,Cloud,2024-12-02,In Progress,481
+406,Differential,2024-01-25,Success,64
+407,Full,2025-01-21,Success,64
+408,Incremental,2024-03-18,In Progress,180
+409,Cloud,2024-07-06,In Progress,304
+410,Differential,2025-10-31,In Progress,485
+411,Differential,2025-02-17,Success,2
+412,Full,2024-01-14,In Progress,260
+413,Full,2025-11-23,Success,131
+414,Full,2025-05-11,In Progress,59
+415,Differential,2025-03-25,Success,132
+416,Incremental,2024-05-19,Failed,33
+417,Incremental,2024-09-11,Success,208
+418,Full,2025-08-19,Success,402
+419,Cloud,2025-11-02,In Progress,61
+420,Full,2026-01-31,Failed,29
+421,Incremental,2026-03-20,In Progress,123
+422,Incremental,2026-02-25,Success,438
+423,Differential,2026-04-21,Failed,56
+424,Incremental,2025-05-05,In Progress,201
+425,Differential,2024-05-18,In Progress,498
+426,Cloud,2025-02-21,In Progress,170
+427,Incremental,2026-03-20,Failed,295
+428,Full,2025-07-13,Failed,328
+429,Differential,2024-11-19,Success,378
+430,Full,2024-04-13,In Progress,261
+431,Incremental,2026-02-24,In Progress,302
+432,Differential,2024-01-27,In Progress,14
+433,Full,2026-03-30,In Progress,228
+434,Cloud,2026-03-09,In Progress,18
+435,Full,2024-05-22,In Progress,447
+436,Full,2025-07-02,Failed,426
+437,Differential,2026-01-19,Success,131
+438,Full,2025-10-19,Failed,106
+439,Full,2026-03-21,Failed,405
+440,Differential,2024-11-28,Failed,164
+441,Differential,2026-03-11,In Progress,220
+442,Incremental,2024-12-31,Success,147
+443,Incremental,2025-07-07,Failed,209
+444,Full,2025-12-06,Failed,187
+445,Full,2025-07-11,Failed,199
+446,Incremental,2025-09-15,In Progress,156
+447,Differential,2024-04-27,Failed,17
+448,Differential,2024-04-07,In Progress,367
+449,Cloud,2026-02-24,In Progress,16
+450,Differential,2025-06-25,In Progress,285
+451,Full,2025-12-06,Success,6
+452,Differential,2025-02-20,Failed,241
+453,Cloud,2024-02-05,Failed,379
+454,Cloud,2025-06-30,Failed,184
+455,Full,2024-06-25,Success,489
+456,Full,2025-04-22,Failed,119
+457,Full,2025-03-04,Success,436
+458,Differential,2025-01-22,Failed,500
+459,Incremental,2024-05-04,Success,5
+460,Differential,2025-05-12,Success,452
+461,Differential,2024-12-25,Success,295
+462,Differential,2025-08-13,Failed,285
+463,Cloud,2025-11-01,Failed,146
+464,Differential,2025-03-25,In Progress,417
+465,Full,2025-06-03,In Progress,489
+466,Incremental,2026-03-15,In Progress,339
+467,Incremental,2024-05-27,Success,406
+468,Full,2025-10-18,In Progress,429
+469,Cloud,2026-01-19,Success,89
+470,Differential,2024-05-29,Success,285
+471,Differential,2025-01-14,Failed,339
+472,Full,2025-08-19,In Progress,144
+473,Differential,2024-02-06,Failed,74
+474,Incremental,2026-03-28,In Progress,269
+475,Differential,2025-04-29,Failed,58
+476,Full,2025-09-24,Success,174
+477,Differential,2025-07-10,Success,332
+478,Full,2025-11-18,Success,18
+479,Full,2024-11-11,In Progress,318
+480,Incremental,2025-12-26,Success,445
+481,Full,2025-10-30,Success,251
+482,Full,2024-12-28,Failed,186
+483,Full,2025-11-25,Failed,49
+484,Differential,2024-04-13,Success,431
+485,Full,2024-07-07,Success,374
+486,Full,2025-12-11,Success,228
+487,Differential,2025-10-04,Failed,66
+488,Cloud,2025-01-08,Failed,450
+489,Cloud,2025-01-02,Failed,225
+490,Cloud,2025-12-20,Success,33
+491,Incremental,2024-03-01,In Progress,55
+492,Incremental,2025-09-07,Failed,340
+493,Full,2024-07-14,Success,194
+494,Cloud,2025-04-09,In Progress,218
+495,Cloud,2024-12-02,Failed,410
+496,Incremental,2024-02-23,In Progress,175
+497,Cloud,2024-12-02,Failed,112
+498,Full,2024-02-07,Failed,323
+499,Full,2024-08-15,Success,232
+500,Differential,2024-10-08,Failed,458
