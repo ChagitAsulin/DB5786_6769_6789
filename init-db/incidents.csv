@@ -1,0 +1,501 @@
+incident_id,title,description,severity,reported_date,status,user_id,camera_id
+1,Incident 1,Security incident description number 1,Medium,2025-10-13,In Progress,174,302
+2,Incident 2,Security incident description number 2,Medium,2024-06-15,In Progress,155,253
+3,Incident 3,Security incident description number 3,Critical,2026-02-18,In Progress,231,210
+4,Incident 4,Security incident description number 4,Low,2025-02-08,Open,305,211
+5,Incident 5,Security incident description number 5,High,2024-11-21,In Progress,3,173
+6,Incident 6,Security incident description number 6,Critical,2024-01-11,Open,199,337
+7,Incident 7,Security incident description number 7,High,2024-03-27,Resolved,183,66
+8,Incident 8,Security incident description number 8,Medium,2025-10-29,Open,201,312
+9,Incident 9,Security incident description number 9,Medium,2026-01-10,In Progress,137,384
+10,Incident 10,Security incident description number 10,Medium,2024-06-12,Resolved,209,37
+11,Incident 11,Security incident description number 11,Medium,2025-12-25,Open,459,69
+12,Incident 12,Security incident description number 12,Low,2024-02-04,Resolved,278,388
+13,Incident 13,Security incident description number 13,High,2024-02-17,In Progress,433,195
+14,Incident 14,Security incident description number 14,High,2026-02-08,In Progress,403,46
+15,Incident 15,Security incident description number 15,Low,2024-08-16,Resolved,468,353
+16,Incident 16,Security incident description number 16,Medium,2026-02-26,In Progress,210,331
+17,Incident 17,Security incident description number 17,Medium,2025-08-14,Open,300,103
+18,Incident 18,Security incident description number 18,Critical,2024-07-16,Open,171,450
+19,Incident 19,Security incident description number 19,High,2024-06-14,Open,315,224
+20,Incident 20,Security incident description number 20,Medium,2025-02-10,Open,263,12
+21,Incident 21,Security incident description number 21,Low,2025-05-13,Resolved,138,380
+22,Incident 22,Security incident description number 22,Low,2026-04-14,In Progress,141,98
+23,Incident 23,Security incident description number 23,High,2025-04-06,In Progress,21,316
+24,Incident 24,Security incident description number 24,Medium,2024-01-24,Resolved,277,173
+25,Incident 25,Security incident description number 25,Critical,2026-03-13,In Progress,329,367
+26,Incident 26,Security incident description number 26,Low,2024-04-14,Resolved,490,293
+27,Incident 27,Security incident description number 27,Medium,2025-01-29,Resolved,212,391
+28,Incident 28,Security incident description number 28,Critical,2025-02-02,Open,69,323
+29,Incident 29,Security incident description number 29,Critical,2024-04-24,Open,495,232
+30,Incident 30,Security incident description number 30,Low,2024-06-05,In Progress,137,175
+31,Incident 31,Security incident description number 31,High,2024-03-18,Open,268,257
+32,Incident 32,Security incident description number 32,Medium,2026-02-07,Resolved,220,433
+33,Incident 33,Security incident description number 33,Low,2024-07-26,Open,112,86
+34,Incident 34,Security incident description number 34,Low,2025-08-27,Resolved,159,214
+35,Incident 35,Security incident description number 35,High,2025-09-13,Resolved,410,417
+36,Incident 36,Security incident description number 36,Critical,2024-10-15,Resolved,176,476
+37,Incident 37,Security incident description number 37,Critical,2024-09-01,Resolved,71,461
+38,Incident 38,Security incident description number 38,Medium,2025-02-16,Resolved,380,294
+39,Incident 39,Security incident description number 39,Critical,2024-10-21,Open,413,476
+40,Incident 40,Security incident description number 40,Critical,2025-12-06,Resolved,59,74
+41,Incident 41,Security incident description number 41,Low,2025-04-27,In Progress,58,306
+42,Incident 42,Security incident description number 42,High,2024-05-08,In Progress,279,98
+43,Incident 43,Security incident description number 43,Low,2024-01-15,Open,471,365
+44,Incident 44,Security incident description number 44,Medium,2024-03-24,Resolved,401,190
+45,Incident 45,Security incident description number 45,Medium,2026-04-08,Open,58,487
+46,Incident 46,Security incident description number 46,Low,2024-04-10,Open,236,183
+47,Incident 47,Security incident description number 47,High,2026-03-03,Resolved,103,159
+48,Incident 48,Security incident description number 48,Medium,2025-08-21,Open,233,104
+49,Incident 49,Security incident description number 49,Critical,2025-12-14,Open,298,222
+50,Incident 50,Security incident description number 50,High,2024-09-01,Resolved,356,23
+51,Incident 51,Security incident description number 51,Medium,2024-11-28,Resolved,296,421
+52,Incident 52,Security incident description number 52,High,2026-03-30,In Progress,227,310
+53,Incident 53,Security incident description number 53,Critical,2025-08-22,In Progress,486,204
+54,Incident 54,Security incident description number 54,Low,2024-03-15,Resolved,260,432
+55,Incident 55,Security incident description number 55,High,2024-01-21,Open,311,168
+56,Incident 56,Security incident description number 56,Critical,2026-02-26,Open,190,488
+57,Incident 57,Security incident description number 57,Critical,2025-04-04,In Progress,480,284
+58,Incident 58,Security incident description number 58,Critical,2025-09-15,Open,168,10
+59,Incident 59,Security incident description number 59,Critical,2026-03-05,Resolved,192,194
+60,Incident 60,Security incident description number 60,Low,2024-05-28,Open,201,417
+61,Incident 61,Security incident description number 61,Medium,2025-11-19,Resolved,256,147
+62,Incident 62,Security incident description number 62,High,2024-10-23,In Progress,83,495
+63,Incident 63,Security incident description number 63,Low,2025-12-05,Resolved,476,367
+64,Incident 64,Security incident description number 64,Medium,2026-03-23,In Progress,154,350
+65,Incident 65,Security incident description number 65,Low,2025-11-13,Open,112,140
+66,Incident 66,Security incident description number 66,Medium,2026-02-06,Open,39,93
+67,Incident 67,Security incident description number 67,Low,2025-03-27,Open,398,363
+68,Incident 68,Security incident description number 68,Low,2025-12-03,Open,479,424
+69,Incident 69,Security incident description number 69,Medium,2024-07-15,Resolved,142,323
+70,Incident 70,Security incident description number 70,High,2026-03-08,In Progress,393,452
+71,Incident 71,Security incident description number 71,Critical,2025-09-10,Resolved,145,145
+72,Incident 72,Security incident description number 72,High,2026-01-17,Open,197,487
+73,Incident 73,Security incident description number 73,Medium,2025-03-18,Open,164,371
+74,Incident 74,Security incident description number 74,High,2025-07-25,Open,153,35
+75,Incident 75,Security incident description number 75,Critical,2024-09-11,Resolved,314,13
+76,Incident 76,Security incident description number 76,Low,2025-01-01,Open,370,152
+77,Incident 77,Security incident description number 77,High,2025-07-19,Resolved,141,138
+78,Incident 78,Security incident description number 78,Medium,2025-06-02,Open,431,151
+79,Incident 79,Security incident description number 79,Medium,2024-06-09,In Progress,220,75
+80,Incident 80,Security incident description number 80,Critical,2025-05-20,In Progress,288,312
+81,Incident 81,Security incident description number 81,Critical,2025-07-29,Resolved,78,411
+82,Incident 82,Security incident description number 82,Low,2024-08-18,In Progress,393,91
+83,Incident 83,Security incident description number 83,Low,2025-12-22,Open,112,20
+84,Incident 84,Security incident description number 84,Medium,2024-09-13,Open,434,472
+85,Incident 85,Security incident description number 85,Low,2024-04-26,In Progress,184,494
+86,Incident 86,Security incident description number 86,High,2024-09-14,In Progress,58,45
+87,Incident 87,Security incident description number 87,Critical,2026-03-29,In Progress,12,157
+88,Incident 88,Security incident description number 88,Low,2024-12-24,Resolved,284,122
+89,Incident 89,Security incident description number 89,Critical,2024-09-02,Open,285,107
+90,Incident 90,Security incident description number 90,Critical,2025-06-30,In Progress,260,113
+91,Incident 91,Security incident description number 91,High,2025-01-22,In Progress,322,437
+92,Incident 92,Security incident description number 92,Low,2025-08-27,Resolved,137,384
+93,Incident 93,Security incident description number 93,High,2024-07-10,Resolved,462,90
+94,Incident 94,Security incident description number 94,Low,2025-06-24,In Progress,155,392
+95,Incident 95,Security incident description number 95,Medium,2025-08-20,Open,416,126
+96,Incident 96,Security incident description number 96,High,2024-05-31,Open,14,463
+97,Incident 97,Security incident description number 97,Low,2024-05-29,Resolved,222,398
+98,Incident 98,Security incident description number 98,Low,2025-07-16,In Progress,341,499
+99,Incident 99,Security incident description number 99,Critical,2025-05-12,Open,11,333
+100,Incident 100,Security incident description number 100,Medium,2025-06-12,Resolved,396,369
+101,Incident 101,Security incident description number 101,High,2026-04-19,In Progress,71,444
+102,Incident 102,Security incident description number 102,Low,2024-09-28,In Progress,291,69
+103,Incident 103,Security incident description number 103,Critical,2026-03-22,Resolved,253,188
+104,Incident 104,Security incident description number 104,Low,2024-11-20,In Progress,401,300
+105,Incident 105,Security incident description number 105,Medium,2025-12-27,Open,458,466
+106,Incident 106,Security incident description number 106,Low,2026-03-05,In Progress,437,419
+107,Incident 107,Security incident description number 107,Low,2025-05-01,Open,477,274
+108,Incident 108,Security incident description number 108,Medium,2025-01-01,Resolved,322,282
+109,Incident 109,Security incident description number 109,High,2025-08-13,Resolved,339,400
+110,Incident 110,Security incident description number 110,High,2024-08-11,In Progress,219,204
+111,Incident 111,Security incident description number 111,Low,2026-02-15,In Progress,495,53
+112,Incident 112,Security incident description number 112,Low,2026-03-02,Open,189,189
+113,Incident 113,Security incident description number 113,Low,2026-04-09,In Progress,274,231
+114,Incident 114,Security incident description number 114,Low,2024-09-04,In Progress,332,215
+115,Incident 115,Security incident description number 115,Critical,2024-11-13,Open,133,191
+116,Incident 116,Security incident description number 116,Critical,2025-06-27,Open,273,180
+117,Incident 117,Security incident description number 117,Low,2025-09-26,Resolved,225,241
+118,Incident 118,Security incident description number 118,High,2025-07-15,Resolved,145,225
+119,Incident 119,Security incident description number 119,Critical,2025-04-01,Open,76,398
+120,Incident 120,Security incident description number 120,Low,2024-12-29,In Progress,313,54
+121,Incident 121,Security incident description number 121,Low,2025-12-25,In Progress,416,231
+122,Incident 122,Security incident description number 122,Critical,2025-08-21,Open,6,151
+123,Incident 123,Security incident description number 123,High,2024-05-08,In Progress,386,202
+124,Incident 124,Security incident description number 124,Low,2024-02-15,Open,203,320
+125,Incident 125,Security incident description number 125,High,2024-10-21,Resolved,373,349
+126,Incident 126,Security incident description number 126,High,2025-09-02,In Progress,55,201
+127,Incident 127,Security incident description number 127,Medium,2025-01-06,Open,40,416
+128,Incident 128,Security incident description number 128,Critical,2024-01-09,Open,148,441
+129,Incident 129,Security incident description number 129,Medium,2025-12-01,Resolved,496,210
+130,Incident 130,Security incident description number 130,Medium,2024-07-06,In Progress,261,368
+131,Incident 131,Security incident description number 131,Medium,2025-03-06,Resolved,94,496
+132,Incident 132,Security incident description number 132,Critical,2024-01-23,Resolved,394,361
+133,Incident 133,Security incident description number 133,High,2026-04-19,Open,26,117
+134,Incident 134,Security incident description number 134,Medium,2024-09-21,In Progress,417,242
+135,Incident 135,Security incident description number 135,High,2025-09-29,Open,49,431
+136,Incident 136,Security incident description number 136,High,2024-08-26,In Progress,201,372
+137,Incident 137,Security incident description number 137,Low,2024-06-23,In Progress,84,136
+138,Incident 138,Security incident description number 138,High,2025-04-19,Open,334,166
+139,Incident 139,Security incident description number 139,Low,2025-07-03,Open,223,390
+140,Incident 140,Security incident description number 140,Low,2024-07-06,Resolved,36,362
+141,Incident 141,Security incident description number 141,Critical,2024-11-03,In Progress,33,159
+142,Incident 142,Security incident description number 142,Critical,2026-02-22,Open,191,124
+143,Incident 143,Security incident description number 143,Low,2024-02-23,Open,266,446
+144,Incident 144,Security incident description number 144,High,2026-02-22,Open,450,458
+145,Incident 145,Security incident description number 145,Critical,2026-01-28,Resolved,340,338
+146,Incident 146,Security incident description number 146,High,2024-12-08,Open,451,225
+147,Incident 147,Security incident description number 147,Critical,2024-07-03,In Progress,86,88
+148,Incident 148,Security incident description number 148,High,2025-09-13,In Progress,468,235
+149,Incident 149,Security incident description number 149,High,2025-10-20,In Progress,253,214
+150,Incident 150,Security incident description number 150,Medium,2025-01-23,Open,30,93
+151,Incident 151,Security incident description number 151,High,2025-08-06,Resolved,74,306
+152,Incident 152,Security incident description number 152,Critical,2026-03-30,In Progress,219,347
+153,Incident 153,Security incident description number 153,High,2024-09-15,In Progress,3,447
+154,Incident 154,Security incident description number 154,High,2024-08-29,Resolved,465,36
+155,Incident 155,Security incident description number 155,High,2025-03-05,In Progress,195,183
+156,Incident 156,Security incident description number 156,Medium,2025-05-09,In Progress,45,492
+157,Incident 157,Security incident description number 157,High,2026-03-15,Resolved,206,146
+158,Incident 158,Security incident description number 158,Low,2025-12-01,Open,193,152
+159,Incident 159,Security incident description number 159,High,2025-08-03,In Progress,36,39
+160,Incident 160,Security incident description number 160,High,2024-08-22,Resolved,443,94
+161,Incident 161,Security incident description number 161,Medium,2024-11-05,In Progress,253,395
+162,Incident 162,Security incident description number 162,Low,2025-07-01,Resolved,247,223
+163,Incident 163,Security incident description number 163,Critical,2025-12-20,In Progress,16,343
+164,Incident 164,Security incident description number 164,Critical,2024-06-22,Resolved,342,21
+165,Incident 165,Security incident description number 165,Low,2026-03-01,In Progress,353,147
+166,Incident 166,Security incident description number 166,High,2024-12-17,Resolved,43,436
+167,Incident 167,Security incident description number 167,Medium,2026-04-01,In Progress,95,252
+168,Incident 168,Security incident description number 168,Low,2024-12-23,In Progress,73,431
+169,Incident 169,Security incident description number 169,High,2026-02-24,Open,303,417
+170,Incident 170,Security incident description number 170,Medium,2024-08-24,Open,365,4
+171,Incident 171,Security incident description number 171,High,2025-11-22,In Progress,199,453
+172,Incident 172,Security incident description number 172,Critical,2024-12-09,In Progress,244,133
+173,Incident 173,Security incident description number 173,Medium,2025-09-19,Open,253,473
+174,Incident 174,Security incident description number 174,Critical,2025-01-14,Open,320,105
+175,Incident 175,Security incident description number 175,Medium,2026-01-13,Open,300,132
+176,Incident 176,Security incident description number 176,Low,2026-01-31,Open,205,476
+177,Incident 177,Security incident description number 177,Medium,2025-02-23,Resolved,258,277
+178,Incident 178,Security incident description number 178,Critical,2026-02-24,Open,317,398
+179,Incident 179,Security incident description number 179,Medium,2025-07-27,Open,113,27
+180,Incident 180,Security incident description number 180,Critical,2024-07-29,Open,291,371
+181,Incident 181,Security incident description number 181,Critical,2025-01-08,Open,306,319
+182,Incident 182,Security incident description number 182,Medium,2025-02-26,Open,272,368
+183,Incident 183,Security incident description number 183,High,2026-04-11,Resolved,138,157
+184,Incident 184,Security incident description number 184,High,2026-04-20,Open,350,120
+185,Incident 185,Security incident description number 185,Medium,2024-07-23,Resolved,356,55
+186,Incident 186,Security incident description number 186,Low,2026-02-11,Resolved,54,132
+187,Incident 187,Security incident description number 187,Critical,2025-04-16,Resolved,416,74
+188,Incident 188,Security incident description number 188,High,2025-10-02,Resolved,281,465
+189,Incident 189,Security incident description number 189,Critical,2026-04-14,Open,246,422
+190,Incident 190,Security incident description number 190,High,2024-06-01,Resolved,51,360
+191,Incident 191,Security incident description number 191,Low,2024-03-20,In Progress,169,390
+192,Incident 192,Security incident description number 192,Medium,2024-12-14,Resolved,38,101
+193,Incident 193,Security incident description number 193,Low,2025-05-21,Resolved,326,286
+194,Incident 194,Security incident description number 194,Low,2025-02-25,Resolved,204,163
+195,Incident 195,Security incident description number 195,Critical,2024-04-20,Resolved,386,422
+196,Incident 196,Security incident description number 196,High,2025-12-22,Open,334,362
+197,Incident 197,Security incident description number 197,Low,2025-01-14,Open,221,18
+198,Incident 198,Security incident description number 198,Critical,2025-04-17,In Progress,478,477
+199,Incident 199,Security incident description number 199,Critical,2025-04-29,Open,365,400
+200,Incident 200,Security incident description number 200,Critical,2024-08-03,Open,83,343
+201,Incident 201,Security incident description number 201,Medium,2026-04-20,Resolved,365,63
+202,Incident 202,Security incident description number 202,Low,2025-07-16,Resolved,261,233
+203,Incident 203,Security incident description number 203,High,2025-04-04,In Progress,408,244
+204,Incident 204,Security incident description number 204,High,2025-03-19,In Progress,55,89
+205,Incident 205,Security incident description number 205,High,2025-03-29,Open,249,133
+206,Incident 206,Security incident description number 206,High,2025-02-15,Resolved,437,151
+207,Incident 207,Security incident description number 207,High,2024-11-15,In Progress,418,390
+208,Incident 208,Security incident description number 208,Medium,2025-09-09,In Progress,482,178
+209,Incident 209,Security incident description number 209,Medium,2025-08-08,In Progress,83,352
+210,Incident 210,Security incident description number 210,Critical,2024-04-08,Open,156,4
+211,Incident 211,Security incident description number 211,Critical,2024-10-02,Open,306,312
+212,Incident 212,Security incident description number 212,Medium,2025-08-07,In Progress,325,186
+213,Incident 213,Security incident description number 213,Low,2024-06-05,In Progress,370,171
+214,Incident 214,Security incident description number 214,Low,2025-10-19,Resolved,448,100
+215,Incident 215,Security incident description number 215,Critical,2025-11-22,Resolved,81,25
+216,Incident 216,Security incident description number 216,High,2025-05-13,Resolved,143,109
+217,Incident 217,Security incident description number 217,Medium,2025-09-13,Open,388,261
+218,Incident 218,Security incident description number 218,Critical,2024-01-09,Open,152,346
+219,Incident 219,Security incident description number 219,Critical,2025-06-12,In Progress,498,261
+220,Incident 220,Security incident description number 220,Low,2026-03-21,Resolved,163,426
+221,Incident 221,Security incident description number 221,Critical,2024-04-29,In Progress,135,222
+222,Incident 222,Security incident description number 222,Low,2024-09-05,Open,218,406
+223,Incident 223,Security incident description number 223,Low,2025-01-17,In Progress,369,480
+224,Incident 224,Security incident description number 224,Critical,2024-11-09,Open,487,201
+225,Incident 225,Security incident description number 225,Low,2024-04-16,Resolved,20,401
+226,Incident 226,Security incident description number 226,Critical,2026-04-03,Resolved,142,410
+227,Incident 227,Security incident description number 227,Critical,2024-07-28,Resolved,395,295
+228,Incident 228,Security incident description number 228,Low,2025-10-13,Resolved,377,174
+229,Incident 229,Security incident description number 229,High,2024-02-04,In Progress,197,274
+230,Incident 230,Security incident description number 230,Low,2025-10-25,In Progress,264,130
+231,Incident 231,Security incident description number 231,Medium,2025-07-25,Resolved,345,499
+232,Incident 232,Security incident description number 232,Critical,2025-07-06,In Progress,499,440
+233,Incident 233,Security incident description number 233,High,2025-10-13,In Progress,486,353
+234,Incident 234,Security incident description number 234,Critical,2024-02-03,Open,282,363
+235,Incident 235,Security incident description number 235,High,2026-03-20,Resolved,281,438
+236,Incident 236,Security incident description number 236,Critical,2024-03-17,In Progress,74,99
+237,Incident 237,Security incident description number 237,Medium,2024-11-26,Open,462,351
+238,Incident 238,Security incident description number 238,Medium,2025-11-27,In Progress,56,105
+239,Incident 239,Security incident description number 239,Critical,2026-03-09,In Progress,403,87
+240,Incident 240,Security incident description number 240,Critical,2025-01-30,Resolved,466,286
+241,Incident 241,Security incident description number 241,Medium,2024-11-02,Resolved,262,95
+242,Incident 242,Security incident description number 242,Critical,2024-07-09,In Progress,226,312
+243,Incident 243,Security incident description number 243,Medium,2024-12-22,In Progress,426,491
+244,Incident 244,Security incident description number 244,High,2025-05-06,Resolved,101,242
+245,Incident 245,Security incident description number 245,Low,2025-03-24,Resolved,221,188
+246,Incident 246,Security incident description number 246,Medium,2024-11-17,Resolved,426,492
+247,Incident 247,Security incident description number 247,High,2025-08-22,Open,97,460
+248,Incident 248,Security incident description number 248,Critical,2024-10-13,Open,213,405
+249,Incident 249,Security incident description number 249,Critical,2025-01-23,Resolved,306,28
+250,Incident 250,Security incident description number 250,Low,2025-07-04,In Progress,470,341
+251,Incident 251,Security incident description number 251,Medium,2026-02-16,Resolved,303,462
+252,Incident 252,Security incident description number 252,Low,2025-11-27,In Progress,112,72
+253,Incident 253,Security incident description number 253,Low,2025-03-22,In Progress,78,392
+254,Incident 254,Security incident description number 254,Low,2025-03-21,In Progress,371,210
+255,Incident 255,Security incident description number 255,Critical,2025-04-19,In Progress,244,335
+256,Incident 256,Security incident description number 256,Critical,2025-06-17,Open,233,428
+257,Incident 257,Security incident description number 257,Low,2024-12-17,Resolved,495,297
+258,Incident 258,Security incident description number 258,Low,2025-12-20,In Progress,437,161
+259,Incident 259,Security incident description number 259,Medium,2025-09-28,Resolved,498,450
+260,Incident 260,Security incident description number 260,Low,2024-02-03,In Progress,443,483
+261,Incident 261,Security incident description number 261,Medium,2024-05-26,Open,134,105
+262,Incident 262,Security incident description number 262,Critical,2024-04-16,Open,479,63
+263,Incident 263,Security incident description number 263,Critical,2025-04-22,Resolved,208,340
+264,Incident 264,Security incident description number 264,Critical,2025-11-14,Open,429,321
+265,Incident 265,Security incident description number 265,Medium,2025-05-03,Open,39,295
+266,Incident 266,Security incident description number 266,Medium,2024-02-03,Open,96,472
+267,Incident 267,Security incident description number 267,Low,2024-03-21,Resolved,208,127
+268,Incident 268,Security incident description number 268,Low,2025-09-04,In Progress,293,443
+269,Incident 269,Security incident description number 269,High,2025-12-04,In Progress,411,409
+270,Incident 270,Security incident description number 270,High,2026-01-30,In Progress,416,70
+271,Incident 271,Security incident description number 271,Low,2026-01-19,In Progress,255,48
+272,Incident 272,Security incident description number 272,Critical,2026-02-11,Resolved,268,226
+273,Incident 273,Security incident description number 273,High,2025-08-21,In Progress,443,188
+274,Incident 274,Security incident description number 274,Critical,2024-08-19,In Progress,387,310
+275,Incident 275,Security incident description number 275,High,2025-03-09,Open,169,345
+276,Incident 276,Security incident description number 276,Low,2024-01-28,In Progress,77,145
+277,Incident 277,Security incident description number 277,High,2024-07-17,Open,91,122
+278,Incident 278,Security incident description number 278,Medium,2025-03-17,Open,289,23
+279,Incident 279,Security incident description number 279,High,2025-04-20,In Progress,142,133
+280,Incident 280,Security incident description number 280,Low,2024-10-24,In Progress,285,350
+281,Incident 281,Security incident description number 281,Critical,2024-04-25,In Progress,427,156
+282,Incident 282,Security incident description number 282,Critical,2025-07-29,Resolved,188,351
+283,Incident 283,Security incident description number 283,High,2024-07-17,Open,459,351
+284,Incident 284,Security incident description number 284,Medium,2024-06-16,Open,94,408
+285,Incident 285,Security incident description number 285,Medium,2025-01-10,In Progress,209,390
+286,Incident 286,Security incident description number 286,Low,2024-12-15,In Progress,75,336
+287,Incident 287,Security incident description number 287,High,2026-03-14,Resolved,162,176
+288,Incident 288,Security incident description number 288,Critical,2024-01-06,Open,161,475
+289,Incident 289,Security incident description number 289,Low,2024-12-22,Resolved,229,184
+290,Incident 290,Security incident description number 290,Medium,2024-10-22,Resolved,3,352
+291,Incident 291,Security incident description number 291,Low,2024-02-05,Resolved,312,435
+292,Incident 292,Security incident description number 292,Medium,2025-11-10,In Progress,274,35
+293,Incident 293,Security incident description number 293,High,2024-10-08,Open,419,424
+294,Incident 294,Security incident description number 294,Medium,2024-08-06,Open,159,269
+295,Incident 295,Security incident description number 295,Low,2024-02-16,Resolved,495,382
+296,Incident 296,Security incident description number 296,High,2024-08-09,Open,97,88
+297,Incident 297,Security incident description number 297,High,2024-02-18,Open,277,211
+298,Incident 298,Security incident description number 298,Low,2024-02-05,In Progress,414,478
+299,Incident 299,Security incident description number 299,Critical,2024-01-17,In Progress,392,457
+300,Incident 300,Security incident description number 300,Critical,2025-02-01,Open,499,391
+301,Incident 301,Security incident description number 301,Low,2024-07-16,In Progress,189,203
+302,Incident 302,Security incident description number 302,Medium,2025-05-02,Open,220,240
+303,Incident 303,Security incident description number 303,Critical,2026-02-18,Resolved,339,52
+304,Incident 304,Security incident description number 304,Critical,2025-12-21,Open,51,334
+305,Incident 305,Security incident description number 305,Medium,2025-05-18,Resolved,450,382
+306,Incident 306,Security incident description number 306,Medium,2024-05-31,Open,206,196
+307,Incident 307,Security incident description number 307,Low,2024-02-26,In Progress,310,380
+308,Incident 308,Security incident description number 308,High,2025-09-16,Resolved,302,223
+309,Incident 309,Security incident description number 309,Low,2024-07-19,In Progress,161,25
+310,Incident 310,Security incident description number 310,Medium,2024-03-21,In Progress,378,140
+311,Incident 311,Security incident description number 311,Low,2025-08-17,Resolved,332,286
+312,Incident 312,Security incident description number 312,Low,2024-07-02,In Progress,32,300
+313,Incident 313,Security incident description number 313,Critical,2024-11-19,Resolved,489,310
+314,Incident 314,Security incident description number 314,Critical,2024-08-09,Open,186,401
+315,Incident 315,Security incident description number 315,Low,2026-03-05,In Progress,474,203
+316,Incident 316,Security incident description number 316,Low,2024-02-24,Resolved,192,192
+317,Incident 317,Security incident description number 317,Low,2025-08-13,In Progress,258,263
+318,Incident 318,Security incident description number 318,Critical,2025-08-09,Resolved,31,366
+319,Incident 319,Security incident description number 319,Medium,2025-05-08,Open,281,454
+320,Incident 320,Security incident description number 320,Low,2025-09-16,In Progress,221,326
+321,Incident 321,Security incident description number 321,High,2024-04-11,Resolved,107,331
+322,Incident 322,Security incident description number 322,Critical,2024-01-01,In Progress,278,390
+323,Incident 323,Security incident description number 323,Critical,2025-10-11,In Progress,6,200
+324,Incident 324,Security incident description number 324,High,2026-02-19,Open,376,60
+325,Incident 325,Security incident description number 325,Low,2025-12-04,Resolved,329,375
+326,Incident 326,Security incident description number 326,High,2024-03-19,Open,459,323
+327,Incident 327,Security incident description number 327,Critical,2024-07-24,Resolved,146,105
+328,Incident 328,Security incident description number 328,Medium,2024-08-03,Open,442,484
+329,Incident 329,Security incident description number 329,Medium,2025-07-02,Resolved,313,316
+330,Incident 330,Security incident description number 330,Low,2025-01-08,Open,390,302
+331,Incident 331,Security incident description number 331,Low,2024-11-25,Resolved,198,250
+332,Incident 332,Security incident description number 332,Low,2025-04-22,Open,469,124
+333,Incident 333,Security incident description number 333,Critical,2025-11-04,Open,176,206
+334,Incident 334,Security incident description number 334,Medium,2025-06-15,In Progress,263,178
+335,Incident 335,Security incident description number 335,Critical,2026-01-20,Open,473,258
+336,Incident 336,Security incident description number 336,High,2026-02-05,In Progress,406,159
+337,Incident 337,Security incident description number 337,Medium,2024-08-30,In Progress,400,92
+338,Incident 338,Security incident description number 338,Low,2024-04-08,Resolved,7,106
+339,Incident 339,Security incident description number 339,High,2025-07-09,In Progress,22,145
+340,Incident 340,Security incident description number 340,Critical,2026-04-03,Resolved,346,322
+341,Incident 341,Security incident description number 341,Critical,2025-08-19,Resolved,307,392
+342,Incident 342,Security incident description number 342,High,2025-04-30,Open,407,233
+343,Incident 343,Security incident description number 343,Critical,2024-12-05,Open,178,388
+344,Incident 344,Security incident description number 344,Medium,2025-07-22,In Progress,400,492
+345,Incident 345,Security incident description number 345,Medium,2024-04-05,In Progress,321,205
+346,Incident 346,Security incident description number 346,Low,2024-04-25,In Progress,261,194
+347,Incident 347,Security incident description number 347,Medium,2024-12-31,In Progress,250,282
+348,Incident 348,Security incident description number 348,High,2025-10-04,In Progress,246,193
+349,Incident 349,Security incident description number 349,Medium,2024-01-02,In Progress,385,181
+350,Incident 350,Security incident description number 350,Low,2026-03-29,Resolved,144,144
+351,Incident 351,Security incident description number 351,Low,2024-03-26,Open,494,188
+352,Incident 352,Security incident description number 352,Critical,2025-05-26,Resolved,131,370
+353,Incident 353,Security incident description number 353,High,2025-05-28,Open,92,149
+354,Incident 354,Security incident description number 354,High,2025-12-15,Resolved,283,130
+355,Incident 355,Security incident description number 355,Medium,2024-05-03,Resolved,266,200
+356,Incident 356,Security incident description number 356,Low,2024-09-25,In Progress,465,406
+357,Incident 357,Security incident description number 357,High,2024-10-25,Open,236,150
+358,Incident 358,Security incident description number 358,Critical,2024-05-18,Resolved,55,395
+359,Incident 359,Security incident description number 359,Low,2024-10-15,In Progress,456,55
+360,Incident 360,Security incident description number 360,High,2024-04-09,Open,62,434
+361,Incident 361,Security incident description number 361,Critical,2025-09-12,Resolved,35,269
+362,Incident 362,Security incident description number 362,Medium,2026-04-05,Resolved,16,195
+363,Incident 363,Security incident description number 363,Low,2025-06-13,Resolved,233,154
+364,Incident 364,Security incident description number 364,High,2026-04-11,Resolved,295,444
+365,Incident 365,Security incident description number 365,Low,2025-01-15,In Progress,410,74
+366,Incident 366,Security incident description number 366,Low,2025-04-25,Resolved,313,134
+367,Incident 367,Security incident description number 367,Medium,2024-01-04,Resolved,457,90
+368,Incident 368,Security incident description number 368,Critical,2025-09-07,Open,273,196
+369,Incident 369,Security incident description number 369,Low,2024-10-08,In Progress,109,481
+370,Incident 370,Security incident description number 370,Critical,2025-04-28,In Progress,347,329
+371,Incident 371,Security incident description number 371,Critical,2025-09-19,Resolved,14,69
+372,Incident 372,Security incident description number 372,High,2024-05-13,Resolved,252,432
+373,Incident 373,Security incident description number 373,Low,2024-06-07,Open,215,43
+374,Incident 374,Security incident description number 374,Medium,2024-09-16,Resolved,430,490
+375,Incident 375,Security incident description number 375,Low,2025-08-19,Resolved,65,467
+376,Incident 376,Security incident description number 376,Medium,2024-07-07,Open,123,447
+377,Incident 377,Security incident description number 377,Low,2024-08-08,In Progress,3,221
+378,Incident 378,Security incident description number 378,High,2026-01-21,In Progress,382,39
+379,Incident 379,Security incident description number 379,High,2024-12-14,In Progress,439,401
+380,Incident 380,Security incident description number 380,Low,2025-02-28,Resolved,443,78
+381,Incident 381,Security incident description number 381,High,2025-02-26,Resolved,201,151
+382,Incident 382,Security incident description number 382,Low,2024-09-12,Open,425,40
+383,Incident 383,Security incident description number 383,High,2025-03-21,Resolved,284,319
+384,Incident 384,Security incident description number 384,Low,2024-02-17,Resolved,357,449
+385,Incident 385,Security incident description number 385,High,2025-02-27,Resolved,175,237
+386,Incident 386,Security incident description number 386,Critical,2025-09-23,Open,55,405
+387,Incident 387,Security incident description number 387,High,2024-09-05,Open,64,205
+388,Incident 388,Security incident description number 388,High,2025-12-06,In Progress,419,121
+389,Incident 389,Security incident description number 389,Low,2025-01-16,Open,199,7
+390,Incident 390,Security incident description number 390,Low,2024-12-18,In Progress,464,349
+391,Incident 391,Security incident description number 391,Medium,2024-12-19,Open,485,470
+392,Incident 392,Security incident description number 392,High,2024-12-25,Open,455,40
+393,Incident 393,Security incident description number 393,Low,2026-02-02,Open,494,477
+394,Incident 394,Security incident description number 394,Medium,2025-07-23,Resolved,31,224
+395,Incident 395,Security incident description number 395,Critical,2025-11-05,In Progress,308,322
+396,Incident 396,Security incident description number 396,Medium,2025-04-05,Resolved,264,156
+397,Incident 397,Security incident description number 397,Critical,2025-10-05,Resolved,218,279
+398,Incident 398,Security incident description number 398,High,2025-09-21,Open,395,145
+399,Incident 399,Security incident description number 399,Low,2024-04-01,Resolved,138,219
+400,Incident 400,Security incident description number 400,Medium,2024-12-19,Open,438,242
+401,Incident 401,Security incident description number 401,Medium,2026-02-16,In Progress,289,216
+402,Incident 402,Security incident description number 402,Low,2024-04-10,In Progress,80,135
+403,Incident 403,Security incident description number 403,Medium,2025-11-03,In Progress,406,451
+404,Incident 404,Security incident description number 404,Critical,2025-10-17,In Progress,497,260
+405,Incident 405,Security incident description number 405,Low,2024-12-31,In Progress,228,487
+406,Incident 406,Security incident description number 406,High,2024-06-23,Open,312,313
+407,Incident 407,Security incident description number 407,High,2026-03-22,Resolved,184,443
+408,Incident 408,Security incident description number 408,Critical,2025-02-16,Open,217,267
+409,Incident 409,Security incident description number 409,High,2024-10-27,Open,297,201
+410,Incident 410,Security incident description number 410,Low,2026-03-20,Open,71,165
+411,Incident 411,Security incident description number 411,Low,2025-11-26,Open,153,301
+412,Incident 412,Security incident description number 412,Low,2025-12-01,Resolved,88,358
+413,Incident 413,Security incident description number 413,Low,2026-03-02,In Progress,335,251
+414,Incident 414,Security incident description number 414,Low,2025-03-20,Open,197,96
+415,Incident 415,Security incident description number 415,Low,2024-05-28,Open,477,46
+416,Incident 416,Security incident description number 416,Low,2024-09-13,In Progress,169,187
+417,Incident 417,Security incident description number 417,Critical,2025-06-20,In Progress,35,337
+418,Incident 418,Security incident description number 418,High,2025-07-22,In Progress,313,195
+419,Incident 419,Security incident description number 419,Low,2025-06-23,In Progress,278,11
+420,Incident 420,Security incident description number 420,High,2024-02-15,Resolved,84,214
+421,Incident 421,Security incident description number 421,High,2024-01-22,Resolved,173,342
+422,Incident 422,Security incident description number 422,High,2025-04-20,In Progress,235,458
+423,Incident 423,Security incident description number 423,Medium,2025-09-21,Open,115,215
+424,Incident 424,Security incident description number 424,Medium,2025-12-02,Open,497,436
+425,Incident 425,Security incident description number 425,Low,2024-09-25,In Progress,268,350
+426,Incident 426,Security incident description number 426,High,2026-04-04,Resolved,301,329
+427,Incident 427,Security incident description number 427,Low,2024-11-29,In Progress,380,116
+428,Incident 428,Security incident description number 428,Low,2025-09-30,Open,284,95
+429,Incident 429,Security incident description number 429,High,2025-07-25,Open,310,474
+430,Incident 430,Security incident description number 430,High,2025-11-29,Resolved,464,1
+431,Incident 431,Security incident description number 431,Critical,2024-07-28,In Progress,271,347
+432,Incident 432,Security incident description number 432,Low,2026-02-08,In Progress,200,17
+433,Incident 433,Security incident description number 433,Critical,2024-08-14,Resolved,89,493
+434,Incident 434,Security incident description number 434,Low,2025-04-08,Open,262,72
+435,Incident 435,Security incident description number 435,Medium,2024-04-21,Open,28,196
+436,Incident 436,Security incident description number 436,Critical,2025-01-08,Resolved,250,200
+437,Incident 437,Security incident description number 437,Medium,2025-05-04,Open,394,34
+438,Incident 438,Security incident description number 438,Low,2025-10-25,Open,260,152
+439,Incident 439,Security incident description number 439,Medium,2025-12-26,Resolved,429,178
+440,Incident 440,Security incident description number 440,Medium,2024-04-02,In Progress,184,198
+441,Incident 441,Security incident description number 441,Low,2025-10-30,Resolved,36,125
+442,Incident 442,Security incident description number 442,Low,2024-07-28,Open,170,164
+443,Incident 443,Security incident description number 443,Medium,2026-04-19,Resolved,421,196
+444,Incident 444,Security incident description number 444,High,2024-01-05,Open,222,160
+445,Incident 445,Security incident description number 445,Medium,2025-07-17,Open,335,343
+446,Incident 446,Security incident description number 446,High,2024-12-18,Resolved,417,391
+447,Incident 447,Security incident description number 447,Medium,2025-07-19,Resolved,284,141
+448,Incident 448,Security incident description number 448,High,2025-03-24,Open,350,332
+449,Incident 449,Security incident description number 449,Medium,2024-05-11,Open,366,19
+450,Incident 450,Security incident description number 450,Critical,2025-05-31,In Progress,19,435
+451,Incident 451,Security incident description number 451,Low,2025-12-21,Open,430,473
+452,Incident 452,Security incident description number 452,Medium,2025-01-19,Open,325,406
+453,Incident 453,Security incident description number 453,Critical,2024-10-16,In Progress,21,424
+454,Incident 454,Security incident description number 454,Critical,2025-11-27,Resolved,112,374
+455,Incident 455,Security incident description number 455,Low,2025-02-07,Resolved,14,334
+456,Incident 456,Security incident description number 456,Medium,2024-04-12,Open,58,109
+457,Incident 457,Security incident description number 457,Critical,2025-07-28,Resolved,259,75
+458,Incident 458,Security incident description number 458,High,2025-06-12,In Progress,205,313
+459,Incident 459,Security incident description number 459,High,2025-11-29,In Progress,469,259
+460,Incident 460,Security incident description number 460,Low,2024-08-14,In Progress,128,74
+461,Incident 461,Security incident description number 461,Critical,2025-06-14,Resolved,81,42
+462,Incident 462,Security incident description number 462,Critical,2026-01-19,Resolved,279,18
+463,Incident 463,Security incident description number 463,Medium,2024-03-21,In Progress,115,176
+464,Incident 464,Security incident description number 464,High,2026-03-09,Resolved,293,389
+465,Incident 465,Security incident description number 465,Medium,2024-01-18,In Progress,303,419
+466,Incident 466,Security incident description number 466,High,2024-12-30,In Progress,200,310
+467,Incident 467,Security incident description number 467,High,2025-08-11,In Progress,391,424
+468,Incident 468,Security incident description number 468,Medium,2024-12-27,Resolved,275,356
+469,Incident 469,Security incident description number 469,Medium,2024-11-25,In Progress,372,432
+470,Incident 470,Security incident description number 470,Medium,2025-07-19,In Progress,414,52
+471,Incident 471,Security incident description number 471,Medium,2025-05-04,Open,491,61
+472,Incident 472,Security incident description number 472,High,2025-05-05,Open,410,463
+473,Incident 473,Security incident description number 473,Medium,2024-06-22,In Progress,292,446
+474,Incident 474,Security incident description number 474,High,2025-04-03,Resolved,212,278
+475,Incident 475,Security incident description number 475,High,2024-08-11,In Progress,131,134
+476,Incident 476,Security incident description number 476,Low,2024-07-08,Open,77,366
+477,Incident 477,Security incident description number 477,High,2024-07-14,In Progress,105,438
+478,Incident 478,Security incident description number 478,High,2025-12-06,In Progress,468,456
+479,Incident 479,Security incident description number 479,Medium,2025-06-20,Open,201,479
+480,Incident 480,Security incident description number 480,Low,2024-09-17,Open,337,390
+481,Incident 481,Security incident description number 481,High,2024-05-13,Resolved,355,99
+482,Incident 482,Security incident description number 482,Medium,2026-04-05,Open,169,12
+483,Incident 483,Security incident description number 483,High,2026-02-04,Resolved,388,376
+484,Incident 484,Security incident description number 484,High,2025-01-12,Open,104,213
+485,Incident 485,Security incident description number 485,Low,2024-08-25,Open,96,106
+486,Incident 486,Security incident description number 486,Critical,2025-04-28,Resolved,467,463
+487,Incident 487,Security incident description number 487,Medium,2024-06-07,In Progress,265,456
+488,Incident 488,Security incident description number 488,Medium,2026-04-14,Resolved,145,249
+489,Incident 489,Security incident description number 489,Medium,2024-03-29,Resolved,482,235
+490,Incident 490,Security incident description number 490,High,2024-07-18,Resolved,458,174
+491,Incident 491,Security incident description number 491,Critical,2025-02-23,In Progress,394,221
+492,Incident 492,Security incident description number 492,High,2024-06-28,Open,74,459
+493,Incident 493,Security incident description number 493,Low,2025-08-07,Open,253,415
+494,Incident 494,Security incident description number 494,Low,2024-07-19,Open,166,278
+495,Incident 495,Security incident description number 495,Low,2024-12-28,Open,246,467
+496,Incident 496,Security incident description number 496,Low,2024-12-08,In Progress,284,417
+497,Incident 497,Security incident description number 497,Critical,2026-04-17,In Progress,341,196
+498,Incident 498,Security incident description number 498,High,2024-08-31,In Progress,103,113
+499,Incident 499,Security incident description number 499,Medium,2026-04-07,Open,2,353
+500,Incident 500,Security incident description number 500,High,2025-03-06,In Progress,77,305

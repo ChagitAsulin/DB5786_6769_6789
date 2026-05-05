@@ -1,0 +1,496 @@
+location_id,location_name
+6,Floor 1 6
+7,Floor 2 7
+8,Floor 3 8
+9,Pool 9
+10,Gym 10
+11,Storage 11
+12,Conference Room 12
+13,Main Gate 13
+14,Back Gate 14
+15,Lobby 15
+16,Reception 16
+17,Server Room 17
+18,Parking 18
+19,Kitchen 19
+20,Floor 1 20
+21,Floor 2 21
+22,Floor 3 22
+23,Pool 23
+24,Gym 24
+25,Storage 25
+26,Conference Room 26
+27,Main Gate 27
+28,Back Gate 28
+29,Lobby 29
+30,Reception 30
+31,Server Room 31
+32,Parking 32
+33,Kitchen 33
+34,Floor 1 34
+35,Floor 2 35
+36,Floor 3 36
+37,Pool 37
+38,Gym 38
+39,Storage 39
+40,Conference Room 40
+41,Main Gate 41
+42,Back Gate 42
+43,Lobby 43
+44,Reception 44
+45,Server Room 45
+46,Parking 46
+47,Kitchen 47
+48,Floor 1 48
+49,Floor 2 49
+50,Floor 3 50
+51,Pool 51
+52,Gym 52
+53,Storage 53
+54,Conference Room 54
+55,Main Gate 55
+56,Back Gate 56
+57,Lobby 57
+58,Reception 58
+59,Server Room 59
+60,Parking 60
+61,Kitchen 61
+62,Floor 1 62
+63,Floor 2 63
+64,Floor 3 64
+65,Pool 65
+66,Gym 66
+67,Storage 67
+68,Conference Room 68
+69,Main Gate 69
+70,Back Gate 70
+71,Lobby 71
+72,Reception 72
+73,Server Room 73
+74,Parking 74
+75,Kitchen 75
+76,Floor 1 76
+77,Floor 2 77
+78,Floor 3 78
+79,Pool 79
+80,Gym 80
+81,Storage 81
+82,Conference Room 82
+83,Main Gate 83
+84,Back Gate 84
+85,Lobby 85
+86,Reception 86
+87,Server Room 87
+88,Parking 88
+89,Kitchen 89
+90,Floor 1 90
+91,Floor 2 91
+92,Floor 3 92
+93,Pool 93
+94,Gym 94
+95,Storage 95
+96,Conference Room 96
+97,Main Gate 97
+98,Back Gate 98
+99,Lobby 99
+100,Reception 100
+101,Server Room 101
+102,Parking 102
+103,Kitchen 103
+104,Floor 1 104
+105,Floor 2 105
+106,Floor 3 106
+107,Pool 107
+108,Gym 108
+109,Storage 109
+110,Conference Room 110
+111,Main Gate 111
+112,Back Gate 112
+113,Lobby 113
+114,Reception 114
+115,Server Room 115
+116,Parking 116
+117,Kitchen 117
+118,Floor 1 118
+119,Floor 2 119
+120,Floor 3 120
+121,Pool 121
+122,Gym 122
+123,Storage 123
+124,Conference Room 124
+125,Main Gate 125
+126,Back Gate 126
+127,Lobby 127
+128,Reception 128
+129,Server Room 129
+130,Parking 130
+131,Kitchen 131
+132,Floor 1 132
+133,Floor 2 133
+134,Floor 3 134
+135,Pool 135
+136,Gym 136
+137,Storage 137
+138,Conference Room 138
+139,Main Gate 139
+140,Back Gate 140
+141,Lobby 141
+142,Reception 142
+143,Server Room 143
+144,Parking 144
+145,Kitchen 145
+146,Floor 1 146
+147,Floor 2 147
+148,Floor 3 148
+149,Pool 149
+150,Gym 150
+151,Storage 151
+152,Conference Room 152
+153,Main Gate 153
+154,Back Gate 154
+155,Lobby 155
+156,Reception 156
+157,Server Room 157
+158,Parking 158
+159,Kitchen 159
+160,Floor 1 160
+161,Floor 2 161
+162,Floor 3 162
+163,Pool 163
+164,Gym 164
+165,Storage 165
+166,Conference Room 166
+167,Main Gate 167
+168,Back Gate 168
+169,Lobby 169
+170,Reception 170
+171,Server Room 171
+172,Parking 172
+173,Kitchen 173
+174,Floor 1 174
+175,Floor 2 175
+176,Floor 3 176
+177,Pool 177
+178,Gym 178
+179,Storage 179
+180,Conference Room 180
+181,Main Gate 181
+182,Back Gate 182
+183,Lobby 183
+184,Reception 184
+185,Server Room 185
+186,Parking 186
+187,Kitchen 187
+188,Floor 1 188
+189,Floor 2 189
+190,Floor 3 190
+191,Pool 191
+192,Gym 192
+193,Storage 193
+194,Conference Room 194
+195,Main Gate 195
+196,Back Gate 196
+197,Lobby 197
+198,Reception 198
+199,Server Room 199
+200,Parking 200
+201,Kitchen 201
+202,Floor 1 202
+203,Floor 2 203
+204,Floor 3 204
+205,Pool 205
+206,Gym 206
+207,Storage 207
+208,Conference Room 208
+209,Main Gate 209
+210,Back Gate 210
+211,Lobby 211
+212,Reception 212
+213,Server Room 213
+214,Parking 214
+215,Kitchen 215
+216,Floor 1 216
+217,Floor 2 217
+218,Floor 3 218
+219,Pool 219
+220,Gym 220
+221,Storage 221
+222,Conference Room 222
+223,Main Gate 223
+224,Back Gate 224
+225,Lobby 225
+226,Reception 226
+227,Server Room 227
+228,Parking 228
+229,Kitchen 229
+230,Floor 1 230
+231,Floor 2 231
+232,Floor 3 232
+233,Pool 233
+234,Gym 234
+235,Storage 235
+236,Conference Room 236
+237,Main Gate 237
+238,Back Gate 238
+239,Lobby 239
+240,Reception 240
+241,Server Room 241
+242,Parking 242
+243,Kitchen 243
+244,Floor 1 244
+245,Floor 2 245
+246,Floor 3 246
+247,Pool 247
+248,Gym 248
+249,Storage 249
+250,Conference Room 250
+251,Main Gate 251
+252,Back Gate 252
+253,Lobby 253
+254,Reception 254
+255,Server Room 255
+256,Parking 256
+257,Kitchen 257
+258,Floor 1 258
+259,Floor 2 259
+260,Floor 3 260
+261,Pool 261
+262,Gym 262
+263,Storage 263
+264,Conference Room 264
+265,Main Gate 265
+266,Back Gate 266
+267,Lobby 267
+268,Reception 268
+269,Server Room 269
+270,Parking 270
+271,Kitchen 271
+272,Floor 1 272
+273,Floor 2 273
+274,Floor 3 274
+275,Pool 275
+276,Gym 276
+277,Storage 277
+278,Conference Room 278
+279,Main Gate 279
+280,Back Gate 280
+281,Lobby 281
+282,Reception 282
+283,Server Room 283
+284,Parking 284
+285,Kitchen 285
+286,Floor 1 286
+287,Floor 2 287
+288,Floor 3 288
+289,Pool 289
+290,Gym 290
+291,Storage 291
+292,Conference Room 292
+293,Main Gate 293
+294,Back Gate 294
+295,Lobby 295
+296,Reception 296
+297,Server Room 297
+298,Parking 298
+299,Kitchen 299
+300,Floor 1 300
+301,Floor 2 301
+302,Floor 3 302
+303,Pool 303
+304,Gym 304
+305,Storage 305
+306,Conference Room 306
+307,Main Gate 307
+308,Back Gate 308
+309,Lobby 309
+310,Reception 310
+311,Server Room 311
+312,Parking 312
+313,Kitchen 313
+314,Floor 1 314
+315,Floor 2 315
+316,Floor 3 316
+317,Pool 317
+318,Gym 318
+319,Storage 319
+320,Conference Room 320
+321,Main Gate 321
+322,Back Gate 322
+323,Lobby 323
+324,Reception 324
+325,Server Room 325
+326,Parking 326
+327,Kitchen 327
+328,Floor 1 328
+329,Floor 2 329
+330,Floor 3 330
+331,Pool 331
+332,Gym 332
+333,Storage 333
+334,Conference Room 334
+335,Main Gate 335
+336,Back Gate 336
+337,Lobby 337
+338,Reception 338
+339,Server Room 339
+340,Parking 340
+341,Kitchen 341
+342,Floor 1 342
+343,Floor 2 343
+344,Floor 3 344
+345,Pool 345
+346,Gym 346
+347,Storage 347
+348,Conference Room 348
+349,Main Gate 349
+350,Back Gate 350
+351,Lobby 351
+352,Reception 352
+353,Server Room 353
+354,Parking 354
+355,Kitchen 355
+356,Floor 1 356
+357,Floor 2 357
+358,Floor 3 358
+359,Pool 359
+360,Gym 360
+361,Storage 361
+362,Conference Room 362
+363,Main Gate 363
+364,Back Gate 364
+365,Lobby 365
+366,Reception 366
+367,Server Room 367
+368,Parking 368
+369,Kitchen 369
+370,Floor 1 370
+371,Floor 2 371
+372,Floor 3 372
+373,Pool 373
+374,Gym 374
+375,Storage 375
+376,Conference Room 376
+377,Main Gate 377
+378,Back Gate 378
+379,Lobby 379
+380,Reception 380
+381,Server Room 381
+382,Parking 382
+383,Kitchen 383
+384,Floor 1 384
+385,Floor 2 385
+386,Floor 3 386
+387,Pool 387
+388,Gym 388
+389,Storage 389
+390,Conference Room 390
+391,Main Gate 391
+392,Back Gate 392
+393,Lobby 393
+394,Reception 394
+395,Server Room 395
+396,Parking 396
+397,Kitchen 397
+398,Floor 1 398
+399,Floor 2 399
+400,Floor 3 400
+401,Pool 401
+402,Gym 402
+403,Storage 403
+404,Conference Room 404
+405,Main Gate 405
+406,Back Gate 406
+407,Lobby 407
+408,Reception 408
+409,Server Room 409
+410,Parking 410
+411,Kitchen 411
+412,Floor 1 412
+413,Floor 2 413
+414,Floor 3 414
+415,Pool 415
+416,Gym 416
+417,Storage 417
+418,Conference Room 418
+419,Main Gate 419
+420,Back Gate 420
+421,Lobby 421
+422,Reception 422
+423,Server Room 423
+424,Parking 424
+425,Kitchen 425
+426,Floor 1 426
+427,Floor 2 427
+428,Floor 3 428
+429,Pool 429
+430,Gym 430
+431,Storage 431
+432,Conference Room 432
+433,Main Gate 433
+434,Back Gate 434
+435,Lobby 435
+436,Reception 436
+437,Server Room 437
+438,Parking 438
+439,Kitchen 439
+440,Floor 1 440
+441,Floor 2 441
+442,Floor 3 442
+443,Pool 443
+444,Gym 444
+445,Storage 445
+446,Conference Room 446
+447,Main Gate 447
+448,Back Gate 448
+449,Lobby 449
+450,Reception 450
+451,Server Room 451
+452,Parking 452
+453,Kitchen 453
+454,Floor 1 454
+455,Floor 2 455
+456,Floor 3 456
+457,Pool 457
+458,Gym 458
+459,Storage 459
+460,Conference Room 460
+461,Main Gate 461
+462,Back Gate 462
+463,Lobby 463
+464,Reception 464
+465,Server Room 465
+466,Parking 466
+467,Kitchen 467
+468,Floor 1 468
+469,Floor 2 469
+470,Floor 3 470
+471,Pool 471
+472,Gym 472
+473,Storage 473
+474,Conference Room 474
+475,Main Gate 475
+476,Back Gate 476
+477,Lobby 477
+478,Reception 478
+479,Server Room 479
+480,Parking 480
+481,Kitchen 481
+482,Floor 1 482
+483,Floor 2 483
+484,Floor 3 484
+485,Pool 485
+486,Gym 486
+487,Storage 487
+488,Conference Room 488
+489,Main Gate 489
+490,Back Gate 490
+491,Lobby 491
+492,Reception 492
+493,Server Room 493
+494,Parking 494
+495,Kitchen 495
+496,Floor 1 496
+497,Floor 2 497
+498,Floor 3 498
+499,Pool 499
+500,Gym 500

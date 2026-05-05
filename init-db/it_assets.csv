@@ -1,0 +1,501 @@
+asset_id,asset_type,asset_name,purchase_date,status,location_id
+1,Printer,Asset 1,2025-02-08,Maintenance,335
+2,Printer,Asset 2,2025-02-24,Operational,243
+3,Printer,Asset 3,2026-01-30,Offline,183
+4,Firewall,Asset 4,2026-03-07,Maintenance,312
+5,Server,Asset 5,2025-05-15,Operational,156
+6,Camera System,Asset 6,2025-07-22,Maintenance,474
+7,Switch,Asset 7,2024-04-22,Retired,123
+8,Server,Asset 8,2026-04-19,Operational,275
+9,Laptop,Asset 9,2025-08-19,Retired,14
+10,Printer,Asset 10,2025-03-22,Maintenance,153
+11,Laptop,Asset 11,2024-08-04,Maintenance,373
+12,Switch,Asset 12,2025-02-13,Operational,72
+13,Camera System,Asset 13,2024-09-14,Offline,128
+14,Printer,Asset 14,2025-08-06,Maintenance,440
+15,Laptop,Asset 15,2024-03-29,Offline,415
+16,Firewall,Asset 16,2025-09-11,Offline,74
+17,Printer,Asset 17,2024-09-12,Operational,245
+18,Switch,Asset 18,2024-06-15,Operational,440
+19,Switch,Asset 19,2024-10-31,Offline,494
+20,Server,Asset 20,2026-02-04,Offline,46
+21,Firewall,Asset 21,2025-07-14,Retired,287
+22,Laptop,Asset 22,2025-11-08,Retired,153
+23,Server,Asset 23,2025-02-27,Operational,339
+24,Router,Asset 24,2026-04-09,Maintenance,247
+25,Camera System,Asset 25,2024-11-26,Maintenance,392
+26,Firewall,Asset 26,2024-11-29,Maintenance,171
+27,Laptop,Asset 27,2024-06-13,Retired,7
+28,Printer,Asset 28,2026-01-27,Offline,199
+29,Router,Asset 29,2025-08-05,Retired,251
+30,Server,Asset 30,2025-11-10,Retired,488
+31,Firewall,Asset 31,2024-01-17,Maintenance,180
+32,Router,Asset 32,2024-02-18,Retired,59
+33,Server,Asset 33,2025-06-14,Offline,79
+34,Server,Asset 34,2025-06-28,Operational,408
+35,Switch,Asset 35,2024-07-15,Retired,23
+36,Laptop,Asset 36,2026-01-19,Maintenance,436
+37,Router,Asset 37,2024-04-20,Retired,120
+38,Server,Asset 38,2024-07-04,Retired,272
+39,Router,Asset 39,2025-09-02,Operational,284
+40,Printer,Asset 40,2025-02-22,Maintenance,180
+41,Switch,Asset 41,2024-09-07,Offline,87
+42,Camera System,Asset 42,2026-02-23,Maintenance,472
+43,Router,Asset 43,2024-05-24,Retired,255
+44,Laptop,Asset 44,2026-02-17,Operational,48
+45,Router,Asset 45,2025-09-14,Operational,471
+46,Laptop,Asset 46,2024-06-24,Maintenance,360
+47,Router,Asset 47,2024-07-31,Retired,131
+48,Server,Asset 48,2026-04-30,Maintenance,178
+49,Laptop,Asset 49,2025-07-14,Offline,155
+50,Printer,Asset 50,2026-02-24,Operational,420
+51,Switch,Asset 51,2025-05-27,Retired,469
+52,Laptop,Asset 52,2024-07-17,Operational,145
+53,Laptop,Asset 53,2025-09-18,Operational,321
+54,Router,Asset 54,2024-02-07,Retired,190
+55,Laptop,Asset 55,2024-09-06,Retired,434
+56,Laptop,Asset 56,2024-09-12,Retired,108
+57,Laptop,Asset 57,2025-11-03,Maintenance,258
+58,Router,Asset 58,2024-01-18,Retired,94
+59,Server,Asset 59,2026-04-09,Operational,256
+60,Camera System,Asset 60,2026-04-15,Operational,338
+61,Camera System,Asset 61,2024-03-15,Maintenance,147
+62,Router,Asset 62,2024-11-21,Offline,274
+63,Camera System,Asset 63,2024-12-17,Operational,229
+64,Printer,Asset 64,2024-04-03,Retired,410
+65,Firewall,Asset 65,2025-08-03,Offline,168
+66,Camera System,Asset 66,2024-12-31,Operational,64
+67,Printer,Asset 67,2024-08-27,Maintenance,186
+68,Camera System,Asset 68,2026-02-26,Maintenance,186
+69,Printer,Asset 69,2025-10-31,Offline,174
+70,Laptop,Asset 70,2026-02-19,Operational,55
+71,Firewall,Asset 71,2025-02-28,Offline,269
+72,Camera System,Asset 72,2025-06-10,Offline,467
+73,Router,Asset 73,2024-10-02,Maintenance,494
+74,Switch,Asset 74,2025-12-24,Operational,357
+75,Firewall,Asset 75,2024-08-26,Retired,100
+76,Server,Asset 76,2024-09-16,Maintenance,495
+77,Firewall,Asset 77,2025-03-01,Operational,370
+78,Laptop,Asset 78,2024-11-03,Maintenance,351
+79,Switch,Asset 79,2025-10-29,Operational,354
+80,Switch,Asset 80,2024-12-12,Retired,268
+81,Laptop,Asset 81,2024-03-14,Retired,246
+82,Router,Asset 82,2025-02-24,Maintenance,494
+83,Laptop,Asset 83,2024-10-05,Offline,115
+84,Router,Asset 84,2024-01-15,Maintenance,56
+85,Router,Asset 85,2025-09-08,Offline,352
+86,Router,Asset 86,2026-03-01,Offline,409
+87,Router,Asset 87,2025-10-15,Offline,496
+88,Camera System,Asset 88,2026-01-19,Offline,144
+89,Printer,Asset 89,2026-04-06,Retired,389
+90,Camera System,Asset 90,2024-06-07,Retired,38
+91,Firewall,Asset 91,2026-01-22,Maintenance,65
+92,Switch,Asset 92,2025-06-12,Operational,472
+93,Printer,Asset 93,2026-01-29,Operational,352
+94,Firewall,Asset 94,2026-02-28,Maintenance,430
+95,Printer,Asset 95,2026-04-18,Retired,467
+96,Camera System,Asset 96,2025-05-12,Operational,164
+97,Router,Asset 97,2025-08-18,Retired,414
+98,Server,Asset 98,2024-05-09,Offline,194
+99,Laptop,Asset 99,2025-07-27,Retired,310
+100,Server,Asset 100,2024-09-29,Operational,489
+101,Printer,Asset 101,2024-01-05,Offline,444
+102,Firewall,Asset 102,2025-04-06,Offline,323
+103,Switch,Asset 103,2024-12-15,Maintenance,390
+104,Server,Asset 104,2025-05-29,Maintenance,266
+105,Server,Asset 105,2024-10-19,Operational,170
+106,Firewall,Asset 106,2024-01-09,Maintenance,113
+107,Laptop,Asset 107,2024-09-18,Operational,240
+108,Switch,Asset 108,2025-06-25,Offline,139
+109,Firewall,Asset 109,2025-07-07,Retired,449
+110,Firewall,Asset 110,2025-12-19,Retired,141
+111,Camera System,Asset 111,2024-05-26,Operational,183
+112,Router,Asset 112,2026-03-11,Operational,419
+113,Server,Asset 113,2024-06-25,Maintenance,325
+114,Router,Asset 114,2024-09-30,Retired,18
+115,Laptop,Asset 115,2024-03-16,Retired,173
+116,Firewall,Asset 116,2025-05-09,Offline,21
+117,Switch,Asset 117,2025-10-10,Offline,381
+118,Laptop,Asset 118,2025-03-08,Operational,49
+119,Printer,Asset 119,2025-03-22,Offline,286
+120,Laptop,Asset 120,2025-10-25,Retired,388
+121,Printer,Asset 121,2025-06-14,Operational,129
+122,Router,Asset 122,2024-02-03,Offline,482
+123,Switch,Asset 123,2025-02-02,Operational,115
+124,Camera System,Asset 124,2025-12-27,Offline,469
+125,Firewall,Asset 125,2025-02-26,Operational,95
+126,Camera System,Asset 126,2024-01-22,Operational,25
+127,Router,Asset 127,2025-11-21,Maintenance,82
+128,Firewall,Asset 128,2026-02-01,Operational,153
+129,Camera System,Asset 129,2025-01-09,Offline,55
+130,Firewall,Asset 130,2025-07-06,Retired,499
+131,Printer,Asset 131,2025-08-08,Retired,312
+132,Printer,Asset 132,2026-02-22,Retired,128
+133,Server,Asset 133,2024-01-30,Offline,149
+134,Switch,Asset 134,2025-01-01,Operational,492
+135,Router,Asset 135,2026-01-24,Operational,84
+136,Switch,Asset 136,2026-03-15,Maintenance,350
+137,Router,Asset 137,2025-12-07,Offline,234
+138,Router,Asset 138,2025-06-18,Retired,295
+139,Laptop,Asset 139,2025-12-06,Offline,74
+140,Camera System,Asset 140,2024-02-15,Maintenance,257
+141,Camera System,Asset 141,2025-10-17,Retired,80
+142,Camera System,Asset 142,2024-07-02,Operational,63
+143,Printer,Asset 143,2026-04-30,Operational,346
+144,Router,Asset 144,2024-07-31,Retired,74
+145,Server,Asset 145,2025-12-17,Retired,15
+146,Router,Asset 146,2025-05-09,Retired,221
+147,Firewall,Asset 147,2024-04-24,Offline,452
+148,Firewall,Asset 148,2024-08-28,Offline,309
+149,Router,Asset 149,2024-06-30,Operational,479
+150,Server,Asset 150,2025-07-09,Operational,344
+151,Firewall,Asset 151,2024-04-06,Offline,17
+152,Printer,Asset 152,2024-12-31,Retired,368
+153,Switch,Asset 153,2026-01-27,Maintenance,337
+154,Laptop,Asset 154,2024-04-16,Retired,30
+155,Server,Asset 155,2025-08-31,Retired,155
+156,Server,Asset 156,2024-08-16,Operational,404
+157,Laptop,Asset 157,2025-02-20,Maintenance,445
+158,Laptop,Asset 158,2024-08-31,Operational,379
+159,Router,Asset 159,2025-12-03,Operational,198
+160,Router,Asset 160,2024-11-23,Maintenance,430
+161,Firewall,Asset 161,2025-08-13,Operational,193
+162,Laptop,Asset 162,2024-02-19,Offline,227
+163,Switch,Asset 163,2026-02-20,Maintenance,55
+164,Switch,Asset 164,2025-02-28,Operational,2
+165,Server,Asset 165,2025-05-19,Retired,30
+166,Router,Asset 166,2024-11-15,Maintenance,24
+167,Switch,Asset 167,2026-03-30,Retired,13
+168,Firewall,Asset 168,2025-05-10,Maintenance,192
+169,Firewall,Asset 169,2024-11-03,Retired,396
+170,Camera System,Asset 170,2025-03-11,Operational,69
+171,Server,Asset 171,2024-03-25,Operational,129
+172,Firewall,Asset 172,2025-11-06,Maintenance,151
+173,Camera System,Asset 173,2025-11-24,Maintenance,464
+174,Server,Asset 174,2024-08-21,Offline,330
+175,Laptop,Asset 175,2024-07-14,Maintenance,478
+176,Printer,Asset 176,2024-02-15,Maintenance,328
+177,Camera System,Asset 177,2024-12-03,Offline,68
+178,Laptop,Asset 178,2025-04-07,Maintenance,413
+179,Switch,Asset 179,2026-03-02,Operational,210
+180,Server,Asset 180,2026-03-22,Offline,329
+181,Printer,Asset 181,2025-05-27,Retired,247
+182,Laptop,Asset 182,2024-10-16,Retired,63
+183,Server,Asset 183,2025-12-10,Retired,100
+184,Server,Asset 184,2024-09-15,Offline,103
+185,Firewall,Asset 185,2025-07-11,Offline,266
+186,Server,Asset 186,2024-07-24,Offline,372
+187,Camera System,Asset 187,2024-06-26,Offline,264
+188,Server,Asset 188,2024-10-04,Maintenance,321
+189,Firewall,Asset 189,2024-04-18,Retired,162
+190,Camera System,Asset 190,2024-11-19,Maintenance,80
+191,Switch,Asset 191,2024-08-20,Maintenance,319
+192,Switch,Asset 192,2025-12-14,Maintenance,167
+193,Camera System,Asset 193,2025-12-18,Maintenance,210
+194,Switch,Asset 194,2024-09-05,Retired,425
+195,Firewall,Asset 195,2025-04-06,Retired,440
+196,Firewall,Asset 196,2025-04-05,Operational,326
+197,Firewall,Asset 197,2025-06-29,Operational,34
+198,Laptop,Asset 198,2025-02-11,Retired,206
+199,Camera System,Asset 199,2026-01-04,Offline,109
+200,Laptop,Asset 200,2025-03-09,Maintenance,200
+201,Switch,Asset 201,2026-04-17,Retired,378
+202,Camera System,Asset 202,2026-03-19,Offline,494
+203,Firewall,Asset 203,2024-07-28,Retired,231
+204,Firewall,Asset 204,2025-06-29,Maintenance,225
+205,Printer,Asset 205,2026-02-16,Retired,295
+206,Router,Asset 206,2024-11-21,Retired,315
+207,Firewall,Asset 207,2025-05-22,Retired,78
+208,Camera System,Asset 208,2025-06-01,Retired,373
+209,Router,Asset 209,2024-12-22,Operational,84
+210,Switch,Asset 210,2024-05-09,Operational,315
+211,Camera System,Asset 211,2024-06-25,Retired,29
+212,Router,Asset 212,2026-01-12,Retired,175
+213,Laptop,Asset 213,2026-04-10,Retired,239
+214,Firewall,Asset 214,2024-07-23,Offline,118
+215,Camera System,Asset 215,2026-01-03,Operational,204
+216,Laptop,Asset 216,2024-07-01,Retired,145
+217,Firewall,Asset 217,2024-04-14,Maintenance,482
+218,Router,Asset 218,2024-01-08,Retired,191
+219,Router,Asset 219,2024-02-29,Operational,441
+220,Switch,Asset 220,2025-04-30,Operational,277
+221,Firewall,Asset 221,2024-08-19,Operational,373
+222,Firewall,Asset 222,2024-07-06,Retired,476
+223,Firewall,Asset 223,2025-05-23,Operational,66
+224,Camera System,Asset 224,2024-07-18,Operational,251
+225,Router,Asset 225,2026-04-17,Operational,70
+226,Printer,Asset 226,2025-04-15,Maintenance,396
+227,Server,Asset 227,2024-04-02,Retired,207
+228,Firewall,Asset 228,2025-12-17,Retired,385
+229,Camera System,Asset 229,2025-05-13,Retired,33
+230,Switch,Asset 230,2025-10-23,Retired,198
+231,Camera System,Asset 231,2025-03-21,Retired,172
+232,Router,Asset 232,2025-05-10,Retired,143
+233,Printer,Asset 233,2025-11-03,Offline,412
+234,Switch,Asset 234,2024-01-05,Offline,430
+235,Router,Asset 235,2025-06-14,Maintenance,25
+236,Camera System,Asset 236,2025-05-26,Maintenance,224
+237,Server,Asset 237,2024-06-04,Operational,132
+238,Router,Asset 238,2025-04-08,Maintenance,128
+239,Laptop,Asset 239,2025-04-10,Operational,493
+240,Laptop,Asset 240,2024-04-17,Operational,450
+241,Printer,Asset 241,2024-07-11,Operational,14
+242,Server,Asset 242,2024-07-02,Maintenance,168
+243,Router,Asset 243,2024-03-24,Retired,379
+244,Router,Asset 244,2024-10-21,Retired,409
+245,Laptop,Asset 245,2026-04-25,Maintenance,418
+246,Router,Asset 246,2025-12-14,Offline,55
+247,Router,Asset 247,2026-01-24,Maintenance,440
+248,Printer,Asset 248,2024-04-03,Retired,259
+249,Router,Asset 249,2024-01-24,Offline,98
+250,Printer,Asset 250,2025-09-17,Operational,46
+251,Printer,Asset 251,2025-12-23,Maintenance,237
+252,Switch,Asset 252,2025-08-27,Offline,319
+253,Server,Asset 253,2024-12-17,Operational,386
+254,Server,Asset 254,2026-02-21,Operational,263
+255,Laptop,Asset 255,2024-10-16,Maintenance,280
+256,Firewall,Asset 256,2025-12-01,Maintenance,493
+257,Camera System,Asset 257,2025-01-26,Retired,54
+258,Printer,Asset 258,2024-02-10,Maintenance,55
+259,Firewall,Asset 259,2024-03-26,Maintenance,281
+260,Switch,Asset 260,2025-07-25,Offline,376
+261,Camera System,Asset 261,2026-04-12,Maintenance,268
+262,Printer,Asset 262,2025-06-03,Maintenance,223
+263,Laptop,Asset 263,2026-01-22,Operational,361
+264,Server,Asset 264,2025-05-27,Maintenance,284
+265,Camera System,Asset 265,2025-03-01,Retired,224
+266,Switch,Asset 266,2026-03-27,Maintenance,14
+267,Laptop,Asset 267,2025-10-28,Offline,253
+268,Switch,Asset 268,2024-05-17,Retired,347
+269,Router,Asset 269,2025-08-11,Offline,11
+270,Server,Asset 270,2026-01-03,Offline,453
+271,Switch,Asset 271,2024-08-10,Maintenance,439
+272,Printer,Asset 272,2024-02-25,Retired,350
+273,Router,Asset 273,2025-02-06,Maintenance,243
+274,Switch,Asset 274,2024-03-31,Offline,46
+275,Printer,Asset 275,2025-05-26,Operational,153
+276,Camera System,Asset 276,2024-08-19,Maintenance,1
+277,Firewall,Asset 277,2024-09-09,Maintenance,217
+278,Switch,Asset 278,2024-01-10,Operational,161
+279,Router,Asset 279,2024-03-23,Retired,403
+280,Camera System,Asset 280,2026-01-23,Maintenance,300
+281,Firewall,Asset 281,2026-01-08,Maintenance,17
+282,Firewall,Asset 282,2026-02-04,Maintenance,57
+283,Laptop,Asset 283,2025-09-08,Maintenance,404
+284,Camera System,Asset 284,2024-09-12,Retired,394
+285,Camera System,Asset 285,2026-03-29,Maintenance,426
+286,Firewall,Asset 286,2025-01-14,Maintenance,367
+287,Printer,Asset 287,2025-09-23,Operational,349
+288,Switch,Asset 288,2025-04-01,Operational,86
+289,Router,Asset 289,2024-10-30,Operational,326
+290,Firewall,Asset 290,2025-12-09,Retired,273
+291,Server,Asset 291,2024-04-13,Retired,97
+292,Switch,Asset 292,2024-04-28,Operational,298
+293,Printer,Asset 293,2025-03-24,Maintenance,420
+294,Switch,Asset 294,2024-10-26,Offline,20
+295,Server,Asset 295,2025-06-20,Retired,298
+296,Laptop,Asset 296,2024-05-14,Retired,208
+297,Router,Asset 297,2025-12-22,Maintenance,245
+298,Switch,Asset 298,2024-05-23,Retired,112
+299,Router,Asset 299,2024-05-13,Retired,23
+300,Printer,Asset 300,2024-09-11,Operational,229
+301,Laptop,Asset 301,2024-01-15,Offline,158
+302,Laptop,Asset 302,2024-06-23,Maintenance,373
+303,Laptop,Asset 303,2025-02-04,Maintenance,471
+304,Laptop,Asset 304,2025-10-06,Maintenance,195
+305,Camera System,Asset 305,2025-11-20,Operational,417
+306,Printer,Asset 306,2025-02-27,Offline,398
+307,Server,Asset 307,2024-10-25,Retired,429
+308,Firewall,Asset 308,2024-06-21,Operational,185
+309,Switch,Asset 309,2024-05-10,Offline,449
+310,Switch,Asset 310,2025-04-10,Offline,256
+311,Laptop,Asset 311,2025-04-03,Retired,55
+312,Server,Asset 312,2025-12-10,Maintenance,315
+313,Laptop,Asset 313,2025-01-30,Operational,46
+314,Server,Asset 314,2026-04-01,Maintenance,313
+315,Laptop,Asset 315,2024-06-01,Maintenance,176
+316,Firewall,Asset 316,2025-06-22,Offline,176
+317,Laptop,Asset 317,2026-03-30,Operational,97
+318,Firewall,Asset 318,2026-01-21,Offline,302
+319,Firewall,Asset 319,2024-09-29,Offline,248
+320,Laptop,Asset 320,2026-04-12,Operational,387
+321,Printer,Asset 321,2024-06-05,Operational,10
+322,Printer,Asset 322,2026-03-31,Operational,498
+323,Server,Asset 323,2024-01-14,Maintenance,467
+324,Router,Asset 324,2025-09-02,Operational,460
+325,Router,Asset 325,2024-02-08,Maintenance,388
+326,Laptop,Asset 326,2025-06-23,Maintenance,495
+327,Printer,Asset 327,2025-11-03,Retired,100
+328,Server,Asset 328,2024-08-03,Offline,390
+329,Laptop,Asset 329,2024-10-24,Maintenance,472
+330,Firewall,Asset 330,2024-01-09,Maintenance,206
+331,Printer,Asset 331,2025-08-02,Maintenance,460
+332,Camera System,Asset 332,2025-12-22,Operational,110
+333,Laptop,Asset 333,2025-06-25,Offline,206
+334,Server,Asset 334,2024-02-20,Operational,60
+335,Camera System,Asset 335,2025-05-17,Offline,295
+336,Router,Asset 336,2024-05-20,Maintenance,219
+337,Laptop,Asset 337,2026-02-01,Offline,309
+338,Printer,Asset 338,2025-01-14,Retired,269
+339,Firewall,Asset 339,2025-04-14,Maintenance,445
+340,Router,Asset 340,2024-01-22,Retired,253
+341,Firewall,Asset 341,2026-03-12,Offline,207
+342,Firewall,Asset 342,2025-07-14,Retired,138
+343,Laptop,Asset 343,2024-09-18,Maintenance,348
+344,Firewall,Asset 344,2026-01-05,Maintenance,252
+345,Firewall,Asset 345,2025-11-01,Retired,436
+346,Router,Asset 346,2024-12-20,Maintenance,117
+347,Laptop,Asset 347,2025-10-21,Retired,44
+348,Firewall,Asset 348,2024-11-28,Operational,357
+349,Switch,Asset 349,2024-11-22,Retired,263
+350,Server,Asset 350,2024-09-28,Operational,262
+351,Printer,Asset 351,2025-02-11,Maintenance,367
+352,Switch,Asset 352,2024-12-15,Operational,312
+353,Laptop,Asset 353,2025-07-15,Operational,421
+354,Switch,Asset 354,2025-07-09,Offline,420
+355,Camera System,Asset 355,2026-04-21,Operational,110
+356,Router,Asset 356,2026-02-22,Retired,445
+357,Router,Asset 357,2024-05-03,Operational,64
+358,Laptop,Asset 358,2024-06-12,Operational,436
+359,Camera System,Asset 359,2024-09-16,Operational,193
+360,Server,Asset 360,2026-01-08,Operational,365
+361,Server,Asset 361,2026-03-23,Maintenance,490
+362,Switch,Asset 362,2026-04-22,Operational,456
+363,Printer,Asset 363,2024-06-12,Retired,414
+364,Router,Asset 364,2024-11-08,Maintenance,292
+365,Router,Asset 365,2025-09-08,Operational,220
+366,Camera System,Asset 366,2024-07-26,Operational,18
+367,Camera System,Asset 367,2025-11-05,Retired,50
+368,Laptop,Asset 368,2024-05-23,Operational,32
+369,Laptop,Asset 369,2025-01-08,Operational,196
+370,Camera System,Asset 370,2025-03-02,Maintenance,213
+371,Server,Asset 371,2026-03-20,Operational,317
+372,Router,Asset 372,2024-04-29,Maintenance,353
+373,Camera System,Asset 373,2024-01-31,Retired,426
+374,Laptop,Asset 374,2025-11-03,Offline,210
+375,Router,Asset 375,2025-12-25,Operational,206
+376,Camera System,Asset 376,2025-03-11,Maintenance,399
+377,Server,Asset 377,2024-10-10,Retired,148
+378,Laptop,Asset 378,2026-03-21,Retired,173
+379,Router,Asset 379,2025-02-17,Retired,110
+380,Camera System,Asset 380,2026-03-25,Offline,260
+381,Firewall,Asset 381,2024-10-03,Offline,408
+382,Camera System,Asset 382,2024-01-18,Offline,487
+383,Switch,Asset 383,2024-06-03,Retired,299
+384,Camera System,Asset 384,2024-01-13,Retired,309
+385,Camera System,Asset 385,2026-04-14,Maintenance,198
+386,Camera System,Asset 386,2024-05-14,Operational,150
+387,Server,Asset 387,2024-05-24,Offline,315
+388,Printer,Asset 388,2025-08-03,Offline,21
+389,Laptop,Asset 389,2024-07-21,Maintenance,152
+390,Laptop,Asset 390,2025-08-26,Operational,205
+391,Server,Asset 391,2024-12-11,Operational,151
+392,Router,Asset 392,2025-11-08,Retired,5
+393,Camera System,Asset 393,2024-09-27,Retired,13
+394,Firewall,Asset 394,2025-06-21,Offline,49
+395,Printer,Asset 395,2024-11-23,Operational,33
+396,Camera System,Asset 396,2025-06-04,Retired,321
+397,Server,Asset 397,2024-06-16,Retired,463
+398,Server,Asset 398,2024-04-08,Retired,195
+399,Laptop,Asset 399,2024-10-01,Maintenance,197
+400,Server,Asset 400,2024-04-03,Offline,421
+401,Router,Asset 401,2024-04-12,Operational,217
+402,Switch,Asset 402,2024-07-12,Offline,293
+403,Firewall,Asset 403,2025-08-07,Operational,327
+404,Switch,Asset 404,2025-10-03,Maintenance,237
+405,Router,Asset 405,2024-12-18,Offline,308
+406,Server,Asset 406,2026-02-08,Operational,330
+407,Router,Asset 407,2026-02-24,Operational,468
+408,Printer,Asset 408,2026-02-18,Retired,361
+409,Server,Asset 409,2024-01-18,Retired,188
+410,Switch,Asset 410,2026-02-11,Offline,364
+411,Printer,Asset 411,2025-08-18,Offline,429
+412,Switch,Asset 412,2025-01-11,Retired,309
+413,Laptop,Asset 413,2025-02-04,Offline,35
+414,Printer,Asset 414,2026-01-27,Offline,129
+415,Firewall,Asset 415,2025-11-21,Operational,410
+416,Router,Asset 416,2024-03-26,Offline,91
+417,Laptop,Asset 417,2024-11-02,Maintenance,244
+418,Firewall,Asset 418,2024-02-11,Operational,160
+419,Switch,Asset 419,2024-08-07,Operational,336
+420,Laptop,Asset 420,2024-10-31,Maintenance,61
+421,Firewall,Asset 421,2025-11-10,Offline,104
+422,Server,Asset 422,2024-08-04,Maintenance,121
+423,Printer,Asset 423,2025-03-06,Maintenance,252
+424,Laptop,Asset 424,2026-02-14,Retired,408
+425,Camera System,Asset 425,2025-09-10,Offline,428
+426,Firewall,Asset 426,2025-09-16,Retired,473
+427,Switch,Asset 427,2024-06-26,Operational,438
+428,Server,Asset 428,2024-11-13,Retired,160
+429,Firewall,Asset 429,2025-06-07,Retired,296
+430,Switch,Asset 430,2026-03-24,Offline,275
+431,Server,Asset 431,2025-08-12,Maintenance,371
+432,Server,Asset 432,2025-08-01,Retired,143
+433,Firewall,Asset 433,2026-03-15,Operational,458
+434,Printer,Asset 434,2025-03-13,Offline,369
+435,Firewall,Asset 435,2025-04-28,Operational,249
+436,Printer,Asset 436,2024-03-30,Retired,404
+437,Server,Asset 437,2025-03-07,Retired,434
+438,Laptop,Asset 438,2025-02-24,Retired,212
+439,Router,Asset 439,2025-07-03,Maintenance,321
+440,Server,Asset 440,2025-10-17,Operational,32
+441,Router,Asset 441,2024-12-27,Retired,256
+442,Camera System,Asset 442,2026-02-24,Retired,268
+443,Router,Asset 443,2024-08-12,Offline,330
+444,Printer,Asset 444,2025-05-09,Offline,189
+445,Laptop,Asset 445,2024-09-01,Offline,314
+446,Router,Asset 446,2025-01-09,Retired,88
+447,Laptop,Asset 447,2025-09-26,Maintenance,296
+448,Switch,Asset 448,2025-01-25,Operational,459
+449,Firewall,Asset 449,2024-07-15,Offline,319
+450,Server,Asset 450,2026-02-15,Offline,174
+451,Laptop,Asset 451,2025-08-01,Operational,52
+452,Firewall,Asset 452,2024-01-19,Operational,211
+453,Printer,Asset 453,2024-02-09,Operational,294
+454,Laptop,Asset 454,2025-08-15,Offline,168
+455,Camera System,Asset 455,2025-10-27,Retired,411
+456,Laptop,Asset 456,2025-02-06,Offline,396
+457,Router,Asset 457,2025-10-22,Retired,344
+458,Firewall,Asset 458,2025-08-10,Maintenance,447
+459,Switch,Asset 459,2025-07-06,Operational,410
+460,Switch,Asset 460,2024-09-03,Retired,16
+461,Router,Asset 461,2024-01-25,Maintenance,307
+462,Server,Asset 462,2024-06-13,Maintenance,338
+463,Server,Asset 463,2025-01-16,Offline,323
+464,Server,Asset 464,2024-05-13,Maintenance,62
+465,Server,Asset 465,2025-07-16,Offline,152
+466,Switch,Asset 466,2024-06-23,Offline,375
+467,Laptop,Asset 467,2026-01-07,Offline,187
+468,Router,Asset 468,2024-02-18,Offline,115
+469,Firewall,Asset 469,2025-01-14,Operational,470
+470,Switch,Asset 470,2026-03-29,Maintenance,31
+471,Printer,Asset 471,2024-12-08,Retired,417
+472,Switch,Asset 472,2024-01-09,Operational,442
+473,Server,Asset 473,2025-05-12,Operational,396
+474,Server,Asset 474,2025-02-27,Maintenance,115
+475,Router,Asset 475,2024-07-29,Retired,23
+476,Camera System,Asset 476,2024-02-14,Maintenance,242
+477,Firewall,Asset 477,2025-11-12,Maintenance,283
+478,Camera System,Asset 478,2025-11-29,Offline,209
+479,Camera System,Asset 479,2025-09-04,Offline,154
+480,Switch,Asset 480,2024-11-19,Offline,227
+481,Switch,Asset 481,2025-03-19,Operational,21
+482,Switch,Asset 482,2025-04-02,Offline,216
+483,Router,Asset 483,2024-07-02,Retired,110
+484,Switch,Asset 484,2024-05-26,Maintenance,306
+485,Camera System,Asset 485,2025-01-15,Retired,92
+486,Camera System,Asset 486,2025-12-31,Maintenance,392
+487,Server,Asset 487,2024-01-17,Operational,225
+488,Printer,Asset 488,2025-07-29,Operational,156
+489,Laptop,Asset 489,2024-05-25,Operational,490
+490,Server,Asset 490,2025-10-01,Offline,35
+491,Server,Asset 491,2025-09-27,Offline,127
+492,Server,Asset 492,2024-06-26,Maintenance,34
+493,Server,Asset 493,2025-02-28,Maintenance,61
+494,Server,Asset 494,2025-10-12,Retired,399
+495,Laptop,Asset 495,2025-05-30,Operational,327
+496,Laptop,Asset 496,2025-09-18,Maintenance,475
+497,Router,Asset 497,2024-01-15,Offline,101
+498,Camera System,Asset 498,2024-05-31,Operational,362
+499,Router,Asset 499,2025-01-26,Operational,113
+500,Camera System,Asset 500,2025-08-19,Maintenance,278
