@@ -164,6 +164,7 @@ backup_2026-04-28.sql
 
 Backup was performed using the pgAdmin graphical interface.
 
+![backup](images/backup_pgAdmin.png)
 ---
 
 ### Data Restore
