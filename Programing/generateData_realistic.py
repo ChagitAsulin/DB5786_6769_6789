@@ -290,29 +290,26 @@ incident_severity_by_id = {}
 for i in range(1, NUM_SMALL + 1):
     severity = random.choice(severity_weighted)
     incident_severity_by_id[i] = severity
-    title, description = random.choice(incident_templates[severity])
+    _title, description = random.choice(incident_templates[severity])
 
     camera_id = random.randint(1, NUM_SMALL)
     location_id = camera_locations[camera_id]
     enriched_description = (
         f"{description} Related camera ID: {camera_id}, location ID: {location_id}. "
-        f"Initial response was documented by hotel security."
+        f"Initial response was documented by hotel security. Severity level used for generation: {severity}."
     )
 
     incidents_rows.append((
         i,
-        title,
         enriched_description,
-        severity,
         random_date(120, 880),
-        random.choice(incident_status_weighted),
-        random.randint(1, NUM_SMALL),  # reporting user
+        random.randint(1, NUM_SMALL),  # reported_by_user_id
         camera_id
     ))
 
 write_csv(
     "incidents.csv",
-    ["incident_id", "title", "description", "severity", "reported_date", "status", "user_id", "camera_id"],
+    ["incident_id", "description", "reported_date", "reported_by_user_id", "camera_id"],
     incidents_rows
 )
 
@@ -321,14 +318,13 @@ backup_rows = []
 for i in range(1, NUM_SMALL + 1):
     backup_type = random.choice(backup_types_weighted)
     backup_date = random_date(250, 900)
-    status = random.choice(backup_status_weighted)
     # Bias backups toward IT managers/technicians, but any system user can appear.
     user_id = random.choice([4, 5] * 12 + list(range(1, NUM_SMALL + 1)))
-    backup_rows.append((i, backup_type, backup_date, status, user_id))
+    backup_rows.append((i, backup_date, backup_type, user_id))
 
 write_csv(
     "system_backups.csv",
-    ["backup_id", "backup_type", "backup_date", "status", "user_id"],
+    ["backup_id", "backup_date", "backup_type", "user_id"],
     backup_rows
 )
 
@@ -352,46 +348,34 @@ while len(assignment_rows) < NUM_SMALL:
         role_in_incident = random.choice(incident_roles)
 
     assignment_rows.append((
-        len(assignment_rows) + 1,
-        random_date(120, 900),
-        role_in_incident,
         incident_id,
-        user_id
+        user_id,
+        random_date(120, 900),
+        role_in_incident
     ))
 
 write_csv(
     "incident_assignments.csv",
-    ["assignment_id", "assigned_date", "role_in_incident", "incident_id", "user_id"],
+    ["incident_id", "user_id", "assigned_date", "role_in_incident"],
     assignment_rows
 )
 
 # access_logs.csv
 access_rows = []
-sensitive_locations = [3, 5] + [i for i in range(6, NUM_SMALL + 1) if i % 17 == 0 or i % 23 == 0]
 for i in range(1, NUM_BIG + 1):
-    access_type = random.choice(["Room Access"] * 58 + ["System Login"] * 30 + ["Server Room Access"] * 12)
-    if access_type == "Server Room Access":
-        location_id = random.choice(sensitive_locations)
-        status = random.choice(["Success"] * 68 + ["Denied"] * 24 + ["Failed"] * 8)
-    elif access_type == "System Login":
-        location_id = random.choice([2, 3, 9, 10, 11, 12] + all_location_ids)
-        status = random.choice(["Success"] * 86 + ["Failed"] * 9 + ["Denied"] * 5)
-    else:
-        location_id = random.choice(all_location_ids)
-        status = random.choice(access_statuses_weighted)
-
+    camera_id = random.randint(1, NUM_SMALL)
+    status = random.choice(access_statuses_weighted)
     access_rows.append((
         i,
-        access_type,
         random_date(200, 900),
         status,
         random.randint(1, NUM_SMALL),
-        location_id
+        camera_id
     ))
 
 write_csv(
     "access_logs.csv",
-    ["log_id", "access_type", "access_time", "status", "user_id", "location_id"],
+    ["log_id", "access_time", "status", "user_id", "camera_id"],
     access_rows
 )
 

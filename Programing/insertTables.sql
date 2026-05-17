@@ -1,7 +1,6 @@
 -- insertTables.sql
--- Updated according to the new ERD
+-- Updated according to the new 3NF DSD
 
--- ניקוי נתונים קיימים
 TRUNCATE TABLE
     asset_incident,
     access_logs,
@@ -15,10 +14,6 @@ TRUNCATE TABLE
     departments,
     roles
 RESTART IDENTITY CASCADE;
-
---------------------------------------------------
--- Method 1: Manual INSERT
---------------------------------------------------
 
 INSERT INTO roles (role_id, role_name) VALUES
 (1, 'Admin'),
@@ -40,15 +35,6 @@ INSERT INTO locations (location_id, location_name) VALUES
 (3, 'Server Room'),
 (4, 'Parking'),
 (5, 'Main Gate');
-
---------------------------------------------------
--- Method 2 + 3: Python + CSV + COPY
---------------------------------------------------
-
--- חשוב:
--- קבצי ה-CSV של roles/departments/locations מתחילים מ-ID = 6
--- כדי לא להתנגש עם ה-INSERT הידני.
--- יש לעדכן את הנתיב /tmp/ לפי המקום שבו שמרת את קבצי ה-CSV.
 
 COPY roles(role_id, role_name)
 FROM '/tmp/roles.csv'
@@ -74,19 +60,19 @@ COPY it_assets(asset_id, asset_type, asset_name, purchase_date, status, location
 FROM '/tmp/it_assets.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY incidents(incident_id, title, description, severity, reported_date, status, user_id, camera_id)
+COPY incidents(incident_id, description, reported_date, reported_by_user_id, camera_id)
 FROM '/tmp/incidents.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY system_backups(backup_id, backup_type, backup_date, status, user_id)
+COPY system_backups(backup_id, backup_date, backup_type, user_id)
 FROM '/tmp/system_backups.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY incident_assignments(assignment_id, assigned_date, role_in_incident, incident_id, user_id)
+COPY incident_assignments(incident_id, user_id, assigned_date, role_in_incident)
 FROM '/tmp/incident_assignments.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY access_logs(log_id, access_type, access_time, status, user_id, location_id)
+COPY access_logs(log_id, access_time, status, user_id, camera_id)
 FROM '/tmp/access_logs.csv'
 DELIMITER ',' CSV HEADER;
 

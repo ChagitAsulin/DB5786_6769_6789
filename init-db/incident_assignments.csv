@@ -1,501 +1,501 @@
-assignment_id,assigned_date,role_in_incident,incident_id,user_id
-1,2025-06-14,Technical Support,450,286
-2,2025-09-04,Shift Supervisor,349,120
-3,2026-03-02,Investigator,392,121
-4,2025-05-30,CCTV Reviewer,405,271
-5,2024-12-10,Shift Supervisor,285,344
-6,2024-06-14,Technical Support,371,179
-7,2025-02-13,Access Control Reviewer,22,129
-8,2026-03-26,Field Security Officer,309,81
-9,2024-12-17,Field Security Officer,292,427
-10,2026-04-02,Incident Owner,143,319
-11,2025-01-15,Shift Supervisor,80,286
-12,2025-12-10,Investigator,62,395
-13,2025-10-07,Access Control Reviewer,457,124
-14,2026-03-10,Reporter,179,441
-15,2024-06-25,Technical Support,419,458
-16,2025-10-19,Investigator,310,214
-17,2025-07-14,Technical Support,301,145
-18,2025-10-31,CCTV Reviewer,305,120
-19,2025-04-18,Access Control Reviewer,472,446
-20,2025-04-21,Reporter,356,74
-21,2025-04-04,Technical Support,39,53
-22,2026-03-14,Investigator,393,50
-23,2026-03-21,Reporter,19,368
-24,2025-04-23,Shift Supervisor,164,285
-25,2024-09-23,Investigator,8,460
-26,2025-07-29,CCTV Reviewer,116,192
-27,2024-05-18,Incident Owner,209,77
-28,2025-06-26,Technical Support,87,11
-29,2024-07-04,Investigator,323,294
-30,2025-08-16,Incident Owner,35,282
-31,2024-09-11,Investigator,262,120
-32,2024-09-08,Incident Owner,85,423
-33,2025-12-06,Field Security Officer,57,129
-34,2024-10-17,Shift Supervisor,25,295
-35,2024-09-13,Reporter,267,415
-36,2025-05-16,Shift Supervisor,139,190
-37,2024-08-08,Reporter,169,366
-38,2024-11-15,Shift Supervisor,203,174
-39,2024-12-02,CCTV Reviewer,237,378
-40,2024-07-14,Investigator,400,419
-41,2024-06-28,CCTV Reviewer,185,329
-42,2025-10-22,Field Security Officer,247,292
-43,2025-08-09,Access Control Reviewer,400,3
-44,2026-02-03,Field Security Officer,462,242
-45,2025-10-30,Field Security Officer,114,341
-46,2024-08-25,Investigator,457,206
-47,2025-12-15,Access Control Reviewer,173,123
-48,2024-08-08,Shift Supervisor,122,86
-49,2025-11-08,Reporter,344,227
-50,2026-04-22,Field Security Officer,331,486
-51,2024-12-18,Field Security Officer,186,325
-52,2026-06-10,Field Security Officer,356,388
-53,2025-10-15,Investigator,12,47
-54,2025-06-12,CCTV Reviewer,208,21
-55,2025-02-12,Shift Supervisor,240,277
-56,2024-09-18,Investigator,194,394
-57,2026-06-18,CCTV Reviewer,313,215
-58,2025-02-05,Technical Support,327,219
-59,2026-02-26,CCTV Reviewer,493,45
-60,2024-09-14,Incident Owner,60,55
-61,2026-02-15,Investigator,367,79
-62,2026-01-12,Shift Supervisor,315,443
-63,2025-09-16,Investigator,320,286
-64,2025-07-09,Reporter,3,344
-65,2025-09-25,CCTV Reviewer,389,45
-66,2025-04-16,Reporter,114,475
-67,2025-08-22,Incident Owner,133,57
-68,2024-05-22,CCTV Reviewer,443,361
-69,2025-12-09,Investigator,390,361
-70,2025-12-03,Field Security Officer,324,216
-71,2024-11-24,CCTV Reviewer,496,294
-72,2024-11-21,Investigator,322,268
-73,2026-03-14,Incident Owner,201,343
-74,2026-06-17,Shift Supervisor,246,382
-75,2025-09-22,Investigator,469,220
-76,2024-09-29,Shift Supervisor,395,100
-77,2025-07-02,CCTV Reviewer,417,444
-78,2026-06-12,Shift Supervisor,483,61
-79,2026-05-08,Access Control Reviewer,361,325
-80,2024-06-28,Investigator,354,299
-81,2026-01-08,CCTV Reviewer,449,245
-82,2024-09-27,Reporter,163,188
-83,2024-12-22,Investigator,283,484
-84,2024-06-17,Technical Support,451,314
-85,2025-10-01,Technical Support,464,403
-86,2025-10-27,CCTV Reviewer,186,107
-87,2025-10-16,CCTV Reviewer,77,80
-88,2025-07-08,Field Security Officer,475,312
-89,2025-10-10,Shift Supervisor,365,168
-90,2024-07-05,Access Control Reviewer,129,300
-91,2026-04-26,Investigator,435,481
-92,2025-06-16,CCTV Reviewer,225,437
-93,2024-07-11,Shift Supervisor,206,360
-94,2025-08-02,Investigator,50,326
-95,2025-12-13,CCTV Reviewer,461,352
-96,2026-03-12,Reporter,65,271
-97,2025-06-25,Incident Owner,182,386
-98,2024-08-28,Incident Owner,324,3
-99,2026-03-04,Technical Support,206,336
-100,2026-03-10,Investigator,319,371
-101,2025-05-18,Reporter,51,93
-102,2025-02-09,Shift Supervisor,82,286
-103,2026-01-07,Field Security Officer,229,493
-104,2025-04-10,Incident Owner,147,31
-105,2026-05-02,Technical Support,89,22
-106,2026-01-08,Reporter,415,70
-107,2024-06-04,Incident Owner,347,163
-108,2024-12-15,Investigator,418,334
-109,2026-05-09,Incident Owner,92,308
-110,2025-01-31,Investigator,498,15
-111,2025-12-15,Technical Support,217,64
-112,2024-07-17,Reporter,42,370
-113,2024-06-20,Shift Supervisor,20,496
-114,2024-09-04,CCTV Reviewer,91,42
-115,2024-11-22,Shift Supervisor,17,146
-116,2025-01-11,Investigator,124,428
-117,2024-06-11,CCTV Reviewer,492,107
-118,2025-03-17,Incident Owner,198,168
-119,2025-04-15,Technical Support,106,314
-120,2024-05-23,CCTV Reviewer,182,66
-121,2026-04-27,CCTV Reviewer,434,98
-122,2025-12-21,Shift Supervisor,454,292
-123,2025-08-05,Field Security Officer,315,487
-124,2024-12-01,Access Control Reviewer,438,59
-125,2025-02-01,Access Control Reviewer,156,31
-126,2025-08-04,Field Security Officer,52,283
-127,2024-08-30,Investigator,202,183
-128,2024-08-13,CCTV Reviewer,372,327
-129,2024-05-25,Field Security Officer,193,357
-130,2025-02-06,Field Security Officer,159,467
-131,2025-07-30,CCTV Reviewer,440,246
-132,2025-02-08,Access Control Reviewer,208,304
-133,2025-08-21,CCTV Reviewer,320,175
-134,2024-07-30,Technical Support,324,185
-135,2025-09-06,Reporter,300,291
-136,2025-11-20,Field Security Officer,92,452
-137,2026-06-17,Incident Owner,140,304
-138,2025-06-13,Shift Supervisor,204,199
-139,2025-01-20,Shift Supervisor,414,195
-140,2024-11-07,Field Security Officer,202,269
-141,2025-10-18,Access Control Reviewer,328,179
-142,2025-05-30,CCTV Reviewer,396,88
-143,2025-03-22,Access Control Reviewer,11,346
-144,2024-08-19,Field Security Officer,13,467
-145,2025-03-10,Reporter,466,409
-146,2025-06-11,Access Control Reviewer,317,176
-147,2024-09-09,Shift Supervisor,484,441
-148,2026-04-10,Field Security Officer,3,282
-149,2024-06-10,Technical Support,405,421
-150,2025-02-14,Technical Support,358,432
-151,2024-12-15,Incident Owner,311,44
-152,2025-09-04,Access Control Reviewer,446,411
-153,2024-09-15,Shift Supervisor,232,412
-154,2026-01-25,Investigator,4,121
-155,2024-06-25,Shift Supervisor,403,429
-156,2026-06-07,Technical Support,31,188
-157,2025-06-02,Investigator,11,91
-158,2025-08-18,Access Control Reviewer,355,32
-159,2025-07-13,Field Security Officer,349,181
-160,2025-04-15,CCTV Reviewer,140,228
-161,2025-06-28,Access Control Reviewer,340,186
-162,2026-02-23,Technical Support,46,81
-163,2026-01-04,Reporter,412,108
-164,2024-06-03,CCTV Reviewer,441,84
-165,2024-12-08,Technical Support,447,425
-166,2026-05-20,CCTV Reviewer,407,311
-167,2025-03-07,Technical Support,323,87
-168,2025-12-09,Shift Supervisor,351,416
-169,2025-12-08,Technical Support,488,343
-170,2024-12-19,Reporter,449,217
-171,2025-12-14,CCTV Reviewer,228,149
-172,2024-06-11,Shift Supervisor,318,287
-173,2024-12-16,Shift Supervisor,403,462
-174,2025-02-26,Incident Owner,381,369
-175,2025-09-05,Incident Owner,209,295
-176,2025-01-22,Incident Owner,33,70
-177,2026-06-15,Shift Supervisor,441,383
-178,2026-06-11,CCTV Reviewer,53,244
-179,2024-10-04,Shift Supervisor,285,393
-180,2026-04-02,Access Control Reviewer,340,264
-181,2024-10-16,Access Control Reviewer,271,381
-182,2024-06-29,Incident Owner,488,113
-183,2025-09-09,Shift Supervisor,234,300
-184,2024-05-31,Incident Owner,354,83
-185,2025-04-06,Incident Owner,350,284
-186,2025-05-08,Shift Supervisor,269,498
-187,2026-06-15,Shift Supervisor,31,485
-188,2025-06-15,CCTV Reviewer,318,194
-189,2024-06-22,Access Control Reviewer,206,380
-190,2026-01-22,CCTV Reviewer,23,209
-191,2025-01-27,Technical Support,187,274
-192,2025-11-27,CCTV Reviewer,47,495
-193,2025-06-24,Technical Support,467,418
-194,2025-07-28,Technical Support,371,476
-195,2024-11-26,Shift Supervisor,64,297
-196,2025-05-02,Shift Supervisor,125,462
-197,2024-08-08,Shift Supervisor,43,356
-198,2025-03-27,Shift Supervisor,371,387
-199,2024-11-04,CCTV Reviewer,492,497
-200,2024-08-21,Technical Support,349,23
-201,2024-10-04,CCTV Reviewer,382,177
-202,2025-04-23,Incident Owner,101,417
-203,2024-08-28,CCTV Reviewer,432,409
-204,2026-04-01,Investigator,391,75
-205,2025-05-08,Investigator,473,78
-206,2026-03-05,Access Control Reviewer,177,157
-207,2026-04-08,Incident Owner,215,76
-208,2024-05-15,Shift Supervisor,17,267
-209,2025-06-06,Technical Support,7,181
-210,2025-04-13,Technical Support,496,87
-211,2024-06-01,Field Security Officer,368,21
-212,2024-06-10,Incident Owner,328,148
-213,2025-09-26,Investigator,159,20
-214,2026-05-18,Investigator,486,210
-215,2024-11-04,Field Security Officer,332,214
-216,2026-05-13,Technical Support,382,103
-217,2025-11-12,CCTV Reviewer,148,478
-218,2026-06-18,Incident Owner,99,476
-219,2024-11-12,Access Control Reviewer,142,315
-220,2025-07-22,Technical Support,450,35
-221,2026-02-03,Field Security Officer,303,471
-222,2025-01-01,Incident Owner,94,91
-223,2025-04-08,Investigator,159,80
-224,2025-01-27,Investigator,396,468
-225,2025-11-09,Incident Owner,349,414
-226,2025-02-22,CCTV Reviewer,168,217
-227,2024-09-04,CCTV Reviewer,385,137
-228,2024-05-17,CCTV Reviewer,494,312
-229,2024-08-17,Investigator,482,23
-230,2025-10-09,Technical Support,136,177
-231,2025-09-29,CCTV Reviewer,167,477
-232,2025-12-21,Reporter,449,30
-233,2025-01-23,Field Security Officer,268,42
-234,2024-05-02,Shift Supervisor,96,343
-235,2024-09-30,Shift Supervisor,69,203
-236,2026-06-06,Shift Supervisor,105,219
-237,2025-10-19,Reporter,302,394
-238,2024-06-18,Field Security Officer,216,480
-239,2024-10-01,CCTV Reviewer,307,396
-240,2024-05-09,Field Security Officer,64,451
-241,2026-03-13,Technical Support,52,190
-242,2025-01-13,Incident Owner,426,32
-243,2025-07-01,Technical Support,407,348
-244,2024-05-20,CCTV Reviewer,91,65
-245,2024-06-21,Field Security Officer,485,27
-246,2025-04-25,Investigator,316,64
-247,2025-09-06,Incident Owner,262,366
-248,2025-08-02,Access Control Reviewer,381,220
-249,2026-01-13,Shift Supervisor,115,232
-250,2026-06-14,CCTV Reviewer,145,381
-251,2025-03-03,Access Control Reviewer,215,30
-252,2024-10-06,Investigator,203,158
-253,2025-05-14,Incident Owner,274,174
-254,2025-09-28,Field Security Officer,2,161
-255,2024-07-16,Reporter,377,94
-256,2025-07-01,Investigator,381,211
-257,2025-07-21,Reporter,118,46
-258,2025-01-31,Field Security Officer,281,179
-259,2025-07-26,Investigator,46,441
-260,2024-09-18,Reporter,151,407
-261,2026-05-14,Field Security Officer,228,244
-262,2026-02-03,Technical Support,106,372
-263,2026-03-06,Shift Supervisor,39,123
-264,2025-11-10,Incident Owner,242,192
-265,2026-04-12,Incident Owner,1,68
-266,2026-06-16,Incident Owner,340,344
-267,2024-10-14,Reporter,458,323
-268,2024-11-29,Investigator,11,89
-269,2024-10-09,Incident Owner,193,213
-270,2026-06-05,CCTV Reviewer,364,140
-271,2025-10-02,CCTV Reviewer,320,12
-272,2024-05-28,CCTV Reviewer,435,444
-273,2025-02-11,Reporter,127,200
-274,2024-09-26,Shift Supervisor,229,483
-275,2025-02-17,Field Security Officer,52,364
-276,2025-01-12,Technical Support,211,473
-277,2024-10-14,Incident Owner,24,188
-278,2025-02-03,CCTV Reviewer,283,214
-279,2024-07-17,Investigator,408,75
-280,2024-09-02,Investigator,397,219
-281,2026-03-08,Field Security Officer,388,297
-282,2024-07-14,Technical Support,466,18
-283,2024-12-01,Reporter,357,135
-284,2024-06-17,Shift Supervisor,329,412
-285,2025-06-02,Technical Support,411,207
-286,2024-05-26,Investigator,167,38
-287,2026-04-11,Investigator,248,374
-288,2025-12-14,Reporter,199,19
-289,2025-04-05,Reporter,58,127
-290,2026-06-10,Shift Supervisor,1,243
-291,2026-02-06,Field Security Officer,324,473
-292,2024-11-04,Incident Owner,279,218
-293,2025-06-05,Access Control Reviewer,294,423
-294,2025-02-11,Access Control Reviewer,462,273
-295,2024-07-15,CCTV Reviewer,381,332
-296,2025-01-17,Shift Supervisor,77,410
-297,2025-07-03,Field Security Officer,229,205
-298,2024-06-28,Technical Support,242,161
-299,2025-11-22,Incident Owner,174,394
-300,2024-07-18,Technical Support,83,358
-301,2024-08-07,Access Control Reviewer,230,154
-302,2026-05-08,Investigator,71,342
-303,2025-01-13,Investigator,490,7
-304,2024-12-20,Incident Owner,218,219
-305,2025-07-24,Incident Owner,332,200
-306,2026-06-14,Incident Owner,390,255
-307,2026-01-23,Reporter,112,409
-308,2026-03-25,Technical Support,10,141
-309,2025-01-21,Shift Supervisor,170,126
-310,2025-04-26,Shift Supervisor,211,1
-311,2024-06-05,Shift Supervisor,255,207
-312,2024-07-31,Technical Support,204,408
-313,2025-02-20,Reporter,260,408
-314,2026-02-06,Technical Support,431,224
-315,2025-09-22,Field Security Officer,240,309
-316,2026-02-07,Technical Support,406,63
-317,2025-01-04,Technical Support,370,206
-318,2024-08-31,Field Security Officer,129,211
-319,2025-01-28,CCTV Reviewer,391,109
-320,2026-02-02,Investigator,489,135
-321,2024-08-06,Field Security Officer,236,353
-322,2025-08-18,Reporter,351,3
-323,2024-05-27,Access Control Reviewer,256,177
-324,2026-06-04,Shift Supervisor,3,87
-325,2024-08-24,Investigator,91,442
-326,2025-03-19,Field Security Officer,368,16
-327,2024-08-30,Reporter,500,220
-328,2024-07-17,Incident Owner,292,385
-329,2025-05-28,Field Security Officer,366,114
-330,2026-05-30,Reporter,332,487
-331,2024-09-02,CCTV Reviewer,105,364
-332,2026-02-14,Technical Support,124,307
-333,2024-12-01,Field Security Officer,414,433
-334,2024-08-23,Field Security Officer,59,27
-335,2024-07-30,Incident Owner,413,239
-336,2024-05-07,Access Control Reviewer,498,362
-337,2024-07-26,Incident Owner,487,355
-338,2025-10-01,Incident Owner,394,271
-339,2025-01-30,Access Control Reviewer,29,291
-340,2024-10-27,Reporter,323,233
-341,2025-08-19,Technical Support,400,290
-342,2025-04-04,Technical Support,77,381
-343,2024-08-09,Technical Support,267,404
-344,2026-01-02,Incident Owner,464,96
-345,2025-10-30,Access Control Reviewer,284,161
-346,2025-08-11,Field Security Officer,386,82
-347,2024-12-21,Investigator,167,357
-348,2024-07-09,Incident Owner,397,175
-349,2026-03-09,Reporter,18,315
-350,2025-01-28,CCTV Reviewer,146,61
-351,2026-06-17,Incident Owner,99,395
-352,2025-01-07,CCTV Reviewer,316,462
-353,2024-06-01,Technical Support,323,447
-354,2024-08-24,Investigator,409,486
-355,2025-08-03,Access Control Reviewer,246,1
-356,2026-01-01,Technical Support,323,16
-357,2024-09-30,Field Security Officer,270,174
-358,2025-03-15,Technical Support,187,222
-359,2025-06-21,Incident Owner,299,453
-360,2026-06-19,Shift Supervisor,165,53
-361,2025-11-30,CCTV Reviewer,118,70
-362,2024-08-22,Shift Supervisor,101,391
-363,2025-09-29,Field Security Officer,53,233
-364,2025-10-02,Reporter,45,21
-365,2025-02-16,Shift Supervisor,146,161
-366,2025-08-11,Investigator,475,36
-367,2025-07-11,Technical Support,443,355
-368,2026-05-06,Incident Owner,93,420
-369,2026-02-27,Access Control Reviewer,351,386
-370,2025-08-30,Investigator,250,294
-371,2026-06-05,Access Control Reviewer,440,228
-372,2025-04-26,Shift Supervisor,136,81
-373,2024-11-08,Technical Support,197,42
-374,2024-07-16,Technical Support,123,85
-375,2025-08-19,Reporter,233,32
-376,2024-10-22,Reporter,326,394
-377,2025-04-21,Technical Support,127,480
-378,2024-05-30,Reporter,273,57
-379,2025-10-08,Investigator,390,377
-380,2024-10-24,CCTV Reviewer,103,446
-381,2024-11-19,Technical Support,231,373
-382,2025-04-26,Field Security Officer,360,131
-383,2024-05-25,Field Security Officer,149,445
-384,2025-09-13,CCTV Reviewer,157,338
-385,2026-03-11,CCTV Reviewer,495,492
-386,2026-05-14,Incident Owner,316,66
-387,2024-09-05,Investigator,289,393
-388,2026-03-31,Incident Owner,494,379
-389,2025-09-09,Investigator,209,360
-390,2026-06-01,Field Security Officer,157,132
-391,2025-10-02,Reporter,299,330
-392,2026-03-05,Investigator,39,421
-393,2024-12-14,Technical Support,458,1
-394,2024-06-10,CCTV Reviewer,8,362
-395,2025-03-25,Shift Supervisor,174,87
-396,2025-10-26,CCTV Reviewer,201,91
-397,2025-11-23,Technical Support,205,188
-398,2025-12-23,Incident Owner,223,25
-399,2025-09-09,CCTV Reviewer,104,177
-400,2026-05-21,Investigator,473,111
-401,2025-05-21,Investigator,167,318
-402,2024-11-09,Incident Owner,415,494
-403,2024-07-10,Access Control Reviewer,172,464
-404,2025-08-17,Shift Supervisor,292,65
-405,2025-10-05,Reporter,260,132
-406,2025-10-19,Access Control Reviewer,246,113
-407,2024-05-31,Technical Support,441,297
-408,2025-11-18,Access Control Reviewer,293,357
-409,2026-05-07,Shift Supervisor,310,150
-410,2024-07-23,Reporter,297,416
-411,2025-08-08,Incident Owner,47,379
-412,2026-05-02,CCTV Reviewer,433,166
-413,2026-03-17,Field Security Officer,427,298
-414,2025-02-17,Field Security Officer,398,233
-415,2024-07-10,CCTV Reviewer,39,498
-416,2025-08-13,Field Security Officer,253,346
-417,2024-11-05,Shift Supervisor,191,120
-418,2025-01-03,Shift Supervisor,484,287
-419,2025-06-24,Access Control Reviewer,61,348
-420,2024-05-15,Investigator,130,324
-421,2026-06-19,Shift Supervisor,16,450
-422,2025-10-06,Incident Owner,9,87
-423,2025-03-08,Incident Owner,203,285
-424,2024-06-21,Reporter,439,500
-425,2026-04-06,Technical Support,121,69
-426,2024-06-25,Technical Support,210,141
-427,2024-06-24,Technical Support,315,2
-428,2026-02-26,Technical Support,304,478
-429,2026-06-13,Incident Owner,291,262
-430,2026-02-24,Technical Support,273,309
-431,2025-01-18,Investigator,398,434
-432,2025-09-12,Shift Supervisor,22,318
-433,2025-03-01,Technical Support,265,424
-434,2025-12-13,Technical Support,60,446
-435,2024-08-15,CCTV Reviewer,146,24
-436,2025-10-27,CCTV Reviewer,460,358
-437,2025-06-21,Investigator,106,94
-438,2025-07-27,Reporter,409,379
-439,2025-11-03,Access Control Reviewer,345,452
-440,2025-05-16,Investigator,344,312
-441,2025-01-04,Shift Supervisor,14,54
-442,2026-03-19,CCTV Reviewer,393,59
-443,2025-03-17,Investigator,34,135
-444,2024-06-02,Shift Supervisor,498,361
-445,2024-06-02,CCTV Reviewer,255,119
-446,2026-01-01,CCTV Reviewer,455,180
-447,2024-05-28,CCTV Reviewer,288,153
-448,2024-05-24,Investigator,82,107
-449,2024-08-19,Access Control Reviewer,277,330
-450,2026-03-17,CCTV Reviewer,130,107
-451,2025-11-10,Technical Support,199,121
-452,2025-05-23,Incident Owner,401,281
-453,2024-08-21,Investigator,93,441
-454,2025-09-24,Shift Supervisor,420,198
-455,2025-01-04,Reporter,403,144
-456,2026-03-17,Incident Owner,88,221
-457,2025-11-29,CCTV Reviewer,54,481
-458,2026-02-14,Access Control Reviewer,72,36
-459,2025-05-26,Reporter,351,371
-460,2024-10-06,Technical Support,260,244
-461,2025-07-29,Investigator,392,280
-462,2024-06-29,Shift Supervisor,378,477
-463,2026-04-21,Incident Owner,231,328
-464,2025-02-17,Incident Owner,461,398
-465,2024-11-20,Shift Supervisor,377,51
-466,2024-06-23,Incident Owner,375,487
-467,2025-09-21,CCTV Reviewer,85,484
-468,2025-09-02,Technical Support,25,337
-469,2025-12-04,Access Control Reviewer,417,368
-470,2025-01-31,Access Control Reviewer,38,458
-471,2025-08-03,Reporter,195,282
-472,2025-06-25,Access Control Reviewer,151,218
-473,2024-07-24,Technical Support,204,72
-474,2024-06-08,Reporter,22,81
-475,2026-03-25,Access Control Reviewer,409,431
-476,2025-02-04,CCTV Reviewer,421,98
-477,2026-04-24,CCTV Reviewer,88,220
-478,2025-10-13,Investigator,26,442
-479,2025-11-03,Investigator,369,331
-480,2025-10-11,Reporter,52,48
-481,2025-08-14,Shift Supervisor,247,129
-482,2025-08-13,Investigator,49,420
-483,2025-02-03,Investigator,454,298
-484,2026-05-13,Access Control Reviewer,339,499
-485,2026-06-02,Shift Supervisor,351,186
-486,2024-09-19,Shift Supervisor,206,148
-487,2026-03-09,Investigator,335,379
-488,2025-12-26,Investigator,99,212
-489,2026-03-24,Field Security Officer,36,100
-490,2024-10-22,Investigator,214,337
-491,2026-04-22,Technical Support,379,134
-492,2025-10-17,Shift Supervisor,424,342
-493,2025-05-03,Reporter,154,305
-494,2026-04-11,Access Control Reviewer,144,376
-495,2026-02-19,Shift Supervisor,163,497
-496,2025-04-28,Shift Supervisor,194,407
-497,2025-09-03,Shift Supervisor,205,79
-498,2024-09-11,Shift Supervisor,266,36
-499,2024-10-15,Access Control Reviewer,299,39
-500,2026-05-21,Technical Support,307,199
+incident_id,user_id,assigned_date,role_in_incident
+413,351,2025-08-10,Technical Support
+388,357,2025-05-13,Shift Supervisor
+349,385,2024-10-31,Technical Support
+494,139,2025-10-05,Reporter
+351,347,2025-09-22,Technical Support
+129,204,2025-04-01,CCTV Reviewer
+371,481,2024-05-24,Shift Supervisor
+455,436,2024-09-04,Investigator
+41,194,2024-09-04,Field Security Officer
+75,39,2025-11-02,Reporter
+213,94,2025-12-28,Technical Support
+428,333,2026-02-28,Reporter
+297,485,2025-06-17,Reporter
+105,2,2024-05-13,Investigator
+319,260,2026-03-23,Investigator
+417,56,2025-11-24,Technical Support
+33,249,2025-05-16,Investigator
+225,83,2024-12-17,Technical Support
+70,232,2026-05-19,Investigator
+105,128,2025-06-18,Field Security Officer
+295,53,2024-06-21,Technical Support
+402,236,2024-05-24,Investigator
+381,213,2026-05-01,Incident Owner
+128,405,2025-12-16,Field Security Officer
+113,394,2025-04-13,Field Security Officer
+486,421,2024-08-19,Access Control Reviewer
+92,246,2025-04-28,Shift Supervisor
+439,70,2025-06-21,Access Control Reviewer
+258,170,2025-06-21,Field Security Officer
+295,33,2025-06-01,Technical Support
+328,369,2025-03-19,Shift Supervisor
+101,378,2024-08-11,Incident Owner
+307,261,2025-12-22,Investigator
+302,138,2026-02-21,Incident Owner
+14,27,2025-09-23,Access Control Reviewer
+400,267,2024-05-16,Incident Owner
+480,72,2025-10-30,Incident Owner
+132,426,2026-05-19,Reporter
+111,131,2026-02-16,Incident Owner
+181,106,2025-02-08,Incident Owner
+405,457,2025-03-28,Shift Supervisor
+458,137,2025-02-22,Reporter
+401,425,2024-09-20,CCTV Reviewer
+183,14,2026-05-24,Shift Supervisor
+422,119,2025-06-20,Shift Supervisor
+474,17,2025-05-07,Shift Supervisor
+27,279,2025-06-01,Shift Supervisor
+386,363,2026-01-13,Investigator
+324,156,2024-08-25,Shift Supervisor
+152,17,2024-08-05,Shift Supervisor
+381,367,2026-02-11,Shift Supervisor
+16,173,2026-04-05,Investigator
+386,31,2025-04-28,Incident Owner
+209,419,2025-08-24,Technical Support
+464,230,2025-02-16,Incident Owner
+379,219,2025-05-01,Shift Supervisor
+1,89,2026-06-02,Incident Owner
+15,239,2024-12-22,Reporter
+38,485,2024-11-10,Shift Supervisor
+436,134,2025-02-21,Shift Supervisor
+500,124,2024-10-27,Investigator
+5,147,2024-07-19,Access Control Reviewer
+452,188,2024-08-01,Reporter
+295,141,2025-05-28,Technical Support
+285,398,2026-03-01,Access Control Reviewer
+139,146,2025-07-23,Reporter
+380,417,2025-10-01,Incident Owner
+268,489,2025-11-11,CCTV Reviewer
+339,120,2024-12-04,CCTV Reviewer
+406,48,2025-05-21,Technical Support
+439,434,2024-10-23,Field Security Officer
+169,75,2025-11-19,Investigator
+146,190,2026-03-07,Shift Supervisor
+263,366,2025-12-17,Investigator
+360,144,2024-06-05,Shift Supervisor
+206,74,2025-10-25,Field Security Officer
+269,191,2025-02-06,CCTV Reviewer
+58,48,2025-04-11,Investigator
+160,279,2026-02-22,Incident Owner
+32,344,2024-06-04,Investigator
+24,158,2026-04-25,Field Security Officer
+53,445,2026-02-27,Investigator
+64,251,2025-04-27,Investigator
+243,186,2026-03-25,Incident Owner
+203,49,2024-08-11,Shift Supervisor
+53,431,2024-11-04,Incident Owner
+24,374,2026-04-10,Investigator
+11,228,2026-02-01,Reporter
+215,66,2025-05-08,Access Control Reviewer
+167,450,2025-05-02,Shift Supervisor
+129,225,2025-07-02,Technical Support
+360,43,2026-02-22,Incident Owner
+119,467,2026-03-06,Incident Owner
+55,271,2026-01-05,Investigator
+229,340,2024-11-11,Incident Owner
+64,194,2025-08-07,Access Control Reviewer
+296,218,2025-05-25,Technical Support
+169,210,2024-06-22,Investigator
+334,175,2025-04-01,Access Control Reviewer
+196,112,2024-06-06,Incident Owner
+146,323,2024-12-13,Incident Owner
+101,232,2025-02-05,Reporter
+226,458,2025-07-02,Incident Owner
+455,179,2025-02-26,Technical Support
+445,377,2025-10-01,CCTV Reviewer
+82,281,2024-12-22,Shift Supervisor
+246,412,2025-05-15,Reporter
+469,470,2026-04-10,Incident Owner
+425,347,2025-08-06,CCTV Reviewer
+258,491,2025-10-05,Access Control Reviewer
+42,47,2026-06-17,Incident Owner
+206,320,2024-08-22,Access Control Reviewer
+112,464,2026-05-09,Field Security Officer
+277,451,2025-12-18,Reporter
+106,467,2025-10-08,Access Control Reviewer
+339,234,2024-05-30,Technical Support
+290,18,2026-02-17,Investigator
+409,65,2024-06-22,Incident Owner
+417,45,2024-05-26,Access Control Reviewer
+180,211,2025-10-11,Reporter
+264,402,2024-12-03,Reporter
+454,477,2025-08-28,CCTV Reviewer
+187,163,2026-06-15,Field Security Officer
+479,335,2024-07-13,Incident Owner
+222,500,2025-11-30,CCTV Reviewer
+179,201,2024-07-14,Technical Support
+198,333,2025-05-26,Shift Supervisor
+84,296,2025-12-20,Incident Owner
+136,203,2024-09-26,Technical Support
+7,48,2026-04-13,CCTV Reviewer
+323,281,2024-10-12,Shift Supervisor
+343,196,2025-04-21,Access Control Reviewer
+289,432,2025-02-19,Reporter
+180,423,2025-03-09,Reporter
+41,444,2024-07-22,CCTV Reviewer
+303,468,2025-03-01,Incident Owner
+220,177,2025-08-16,Shift Supervisor
+493,497,2025-08-12,Access Control Reviewer
+268,234,2025-07-01,Shift Supervisor
+174,368,2025-07-16,Incident Owner
+207,151,2025-03-08,Shift Supervisor
+316,330,2024-10-30,Shift Supervisor
+196,85,2024-05-30,Incident Owner
+190,10,2024-07-23,Technical Support
+72,274,2026-03-23,Access Control Reviewer
+268,77,2025-07-25,CCTV Reviewer
+495,290,2025-01-02,Investigator
+63,439,2026-04-27,Incident Owner
+486,87,2025-03-01,Investigator
+199,247,2024-06-27,Access Control Reviewer
+309,341,2025-09-06,Investigator
+225,338,2024-12-17,Technical Support
+387,401,2025-04-26,Incident Owner
+187,107,2025-11-21,Shift Supervisor
+437,244,2026-02-03,Investigator
+468,30,2024-08-06,Technical Support
+404,365,2024-10-12,Technical Support
+384,232,2026-02-23,Shift Supervisor
+352,102,2025-06-25,Shift Supervisor
+269,55,2025-03-14,Incident Owner
+159,349,2024-10-15,Access Control Reviewer
+58,496,2025-05-23,Incident Owner
+362,262,2025-06-03,Shift Supervisor
+71,390,2025-06-04,Investigator
+295,37,2025-12-21,Shift Supervisor
+473,395,2026-05-20,Incident Owner
+53,489,2025-01-17,Reporter
+451,340,2024-08-19,Shift Supervisor
+100,445,2025-09-02,Shift Supervisor
+163,61,2024-09-16,Technical Support
+109,437,2024-06-12,Shift Supervisor
+375,20,2025-03-14,Incident Owner
+252,247,2026-02-06,CCTV Reviewer
+178,465,2026-01-27,Shift Supervisor
+18,42,2025-07-31,Field Security Officer
+332,148,2024-08-15,Investigator
+131,489,2024-05-23,Shift Supervisor
+65,469,2024-11-08,Access Control Reviewer
+96,373,2024-04-30,Investigator
+478,116,2025-06-11,Technical Support
+93,101,2024-06-01,Access Control Reviewer
+341,181,2024-05-15,CCTV Reviewer
+45,344,2024-12-04,CCTV Reviewer
+359,422,2024-08-09,CCTV Reviewer
+51,22,2025-12-26,CCTV Reviewer
+429,437,2026-03-28,Shift Supervisor
+395,325,2025-08-23,CCTV Reviewer
+129,46,2024-08-06,Technical Support
+48,319,2026-04-12,Access Control Reviewer
+182,128,2024-09-09,CCTV Reviewer
+49,262,2025-08-27,Field Security Officer
+486,180,2026-02-15,CCTV Reviewer
+9,442,2024-09-25,CCTV Reviewer
+230,143,2025-09-21,CCTV Reviewer
+179,138,2024-09-27,Technical Support
+436,237,2025-04-08,Reporter
+486,262,2025-08-16,Investigator
+46,363,2026-03-25,Technical Support
+205,351,2025-02-28,Shift Supervisor
+437,469,2026-03-14,Technical Support
+1,247,2026-04-27,Shift Supervisor
+311,323,2024-07-10,Incident Owner
+286,108,2024-08-10,Investigator
+205,325,2025-11-19,Incident Owner
+196,173,2024-12-29,Investigator
+442,271,2025-12-29,Access Control Reviewer
+392,195,2026-06-08,CCTV Reviewer
+329,17,2025-06-29,CCTV Reviewer
+13,24,2024-12-24,CCTV Reviewer
+84,486,2025-05-20,CCTV Reviewer
+137,104,2025-05-07,Incident Owner
+354,283,2025-08-28,Shift Supervisor
+102,221,2024-06-12,Incident Owner
+380,208,2025-09-04,Investigator
+444,101,2024-07-14,Incident Owner
+188,278,2026-04-08,Reporter
+484,319,2026-01-16,Technical Support
+158,323,2026-05-21,Incident Owner
+477,335,2025-10-11,CCTV Reviewer
+11,493,2025-09-10,Field Security Officer
+365,94,2025-02-13,CCTV Reviewer
+64,74,2025-03-13,Field Security Officer
+371,244,2025-07-15,CCTV Reviewer
+407,305,2026-02-21,Technical Support
+18,137,2025-04-28,Incident Owner
+431,179,2025-09-15,Reporter
+444,284,2025-05-20,Investigator
+211,151,2025-08-03,Investigator
+160,180,2025-08-11,Incident Owner
+406,439,2024-08-28,Technical Support
+453,115,2024-11-15,Incident Owner
+461,420,2025-10-02,Shift Supervisor
+238,39,2025-11-07,Shift Supervisor
+159,404,2025-03-30,Technical Support
+162,188,2025-06-06,CCTV Reviewer
+422,43,2024-10-11,Investigator
+407,286,2025-11-05,Access Control Reviewer
+276,318,2024-05-23,CCTV Reviewer
+452,222,2025-08-24,Incident Owner
+450,286,2026-03-27,Shift Supervisor
+120,202,2024-12-26,Access Control Reviewer
+365,416,2026-03-02,CCTV Reviewer
+405,271,2025-05-30,CCTV Reviewer
+285,344,2024-12-10,Technical Support
+371,179,2024-06-14,Technical Support
+22,129,2025-02-13,CCTV Reviewer
+309,81,2026-03-26,Investigator
+292,427,2024-12-17,Field Security Officer
+143,319,2026-04-02,Incident Owner
+80,286,2025-01-15,Shift Supervisor
+62,395,2025-12-10,Investigator
+457,124,2025-10-07,Access Control Reviewer
+179,441,2025-04-01,Technical Support
+340,419,2024-06-25,Shift Supervisor
+310,214,2025-10-19,CCTV Reviewer
+301,145,2025-12-29,Shift Supervisor
+120,486,2025-10-31,Access Control Reviewer
+472,446,2025-04-18,Access Control Reviewer
+356,74,2025-04-21,Shift Supervisor
+39,53,2025-04-04,Technical Support
+393,50,2026-03-14,Investigator
+19,368,2026-03-21,Reporter
+164,285,2025-04-23,Reporter
+8,460,2024-09-23,Investigator
+116,192,2025-07-29,CCTV Reviewer
+209,77,2024-05-18,Incident Owner
+87,11,2026-02-04,Shift Supervisor
+294,348,2024-07-04,Investigator
+35,282,2025-08-16,Incident Owner
+262,120,2024-09-11,Field Security Officer
+85,423,2024-09-08,Incident Owner
+57,129,2025-12-06,Field Security Officer
+25,295,2024-10-17,Shift Supervisor
+267,415,2024-09-13,Shift Supervisor
+139,190,2025-05-16,Shift Supervisor
+169,366,2024-08-08,Shift Supervisor
+203,174,2024-11-15,CCTV Reviewer
+237,378,2024-12-02,CCTV Reviewer
+400,419,2024-07-14,Investigator
+185,329,2024-06-28,Shift Supervisor
+247,292,2025-10-22,Field Security Officer
+400,3,2025-08-09,Access Control Reviewer
+462,242,2026-02-03,Field Security Officer
+114,341,2025-10-30,Field Security Officer
+457,206,2024-08-25,Investigator
+173,123,2025-12-15,Access Control Reviewer
+122,86,2025-07-06,Technical Support
+51,344,2025-03-24,Access Control Reviewer
+475,279,2026-04-22,Investigator
+186,325,2024-12-18,Field Security Officer
+356,388,2026-06-10,Investigator
+12,47,2025-10-15,Investigator
+208,21,2024-10-23,Technical Support
+434,205,2025-11-04,Access Control Reviewer
+217,145,2024-09-06,CCTV Reviewer
+71,313,2025-10-21,Shift Supervisor
+69,402,2025-01-13,Shift Supervisor
+141,493,2025-10-03,Investigator
+335,407,2026-02-26,CCTV Reviewer
+60,55,2024-09-14,Incident Owner
+367,79,2026-02-15,Field Security Officer
+315,443,2026-01-12,Shift Supervisor
+320,286,2025-09-16,Investigator
+3,344,2025-07-09,Shift Supervisor
+389,45,2025-09-25,CCTV Reviewer
+114,475,2025-04-16,Reporter
+133,57,2024-06-29,Technical Support
+240,443,2024-05-22,CCTV Reviewer
+390,361,2025-12-09,Field Security Officer
+324,216,2025-12-03,Investigator
+496,294,2024-11-24,Investigator
+322,268,2024-11-21,Investigator
+201,343,2026-03-14,Incident Owner
+246,382,2026-06-17,Shift Supervisor
+469,220,2025-09-22,Field Security Officer
+395,100,2024-09-29,Shift Supervisor
+417,444,2025-07-02,CCTV Reviewer
+483,61,2026-06-12,Shift Supervisor
+361,325,2026-03-16,Technical Support
+283,253,2024-06-28,CCTV Reviewer
+449,245,2026-01-08,Investigator
+163,188,2024-09-27,Shift Supervisor
+283,484,2024-12-22,Field Security Officer
+451,314,2025-10-13,Incident Owner
+396,260,2024-11-28,Reporter
+83,273,2024-10-06,Investigator
+460,441,2025-10-16,CCTV Reviewer
+475,312,2026-04-05,Technical Support
+126,430,2026-04-28,Shift Supervisor
+168,221,2025-12-19,Technical Support
+228,481,2024-11-15,Investigator
+364,225,2025-06-16,CCTV Reviewer
+206,360,2024-07-11,Shift Supervisor
+50,326,2025-08-02,Investigator
+461,352,2025-12-13,CCTV Reviewer
+65,271,2026-03-12,Reporter
+182,386,2025-06-25,Incident Owner
+324,3,2024-05-09,Technical Support
+471,61,2026-03-01,Shift Supervisor
+135,337,2026-03-10,Investigator
+51,93,2025-05-18,Reporter
+82,286,2025-02-09,Reporter
+229,493,2026-01-07,Investigator
+147,31,2025-04-10,Incident Owner
+89,22,2025-05-11,CCTV Reviewer
+458,310,2024-07-04,Reporter
+18,418,2024-12-15,Field Security Officer
+92,308,2026-05-09,Incident Owner
+498,15,2025-01-31,Investigator
+217,64,2025-12-15,Shift Supervisor
+42,370,2024-07-17,Reporter
+20,496,2024-06-20,Shift Supervisor
+91,42,2024-09-04,CCTV Reviewer
+17,146,2024-11-22,CCTV Reviewer
+124,428,2025-01-11,Investigator
+492,107,2024-06-11,Access Control Reviewer
+198,168,2025-03-17,Incident Owner
+106,314,2025-04-27,Reporter
+66,95,2024-11-10,Incident Owner
+88,414,2025-12-21,Shift Supervisor
+315,487,2025-08-05,Field Security Officer
+438,59,2024-12-01,Access Control Reviewer
+156,31,2025-02-01,Access Control Reviewer
+52,283,2025-08-04,Investigator
+202,183,2024-08-30,Investigator
+372,327,2024-08-13,CCTV Reviewer
+193,357,2024-05-25,Field Security Officer
+159,467,2025-02-06,Field Security Officer
+440,246,2025-07-30,Investigator
+208,304,2025-02-08,CCTV Reviewer
+320,175,2025-08-21,CCTV Reviewer
+324,185,2026-04-29,Technical Support
+461,149,2025-12-19,Investigator
+291,178,2024-10-30,Access Control Reviewer
+452,111,2025-12-27,Technical Support
+414,448,2026-06-17,Incident Owner
+204,199,2025-06-13,Reporter
+414,195,2025-01-20,CCTV Reviewer
+202,269,2024-11-07,Field Security Officer
+328,179,2025-10-18,CCTV Reviewer
+396,88,2025-05-30,CCTV Reviewer
+11,346,2025-03-22,Access Control Reviewer
+13,467,2024-08-19,Investigator
+466,409,2025-03-10,Shift Supervisor
+317,176,2025-06-11,Access Control Reviewer
+484,441,2024-09-09,Technical Support
+3,282,2026-04-10,Investigator
+405,421,2024-06-10,Technical Support
+358,432,2025-02-14,Technical Support
+311,44,2024-12-15,Incident Owner
+446,411,2025-09-04,Access Control Reviewer
+232,412,2024-09-15,Technical Support
+4,121,2026-01-25,Investigator
+403,429,2024-06-25,Shift Supervisor
+31,188,2026-06-07,Technical Support
+11,91,2025-06-02,Investigator
+355,32,2025-08-18,Access Control Reviewer
+349,181,2025-07-13,Field Security Officer
+140,228,2025-04-15,CCTV Reviewer
+340,186,2025-06-28,CCTV Reviewer
+46,81,2026-02-23,Technical Support
+412,108,2026-01-04,Reporter
+441,84,2024-06-03,CCTV Reviewer
+447,425,2026-01-11,Field Security Officer
+246,376,2025-02-21,CCTV Reviewer
+156,351,2025-12-09,Shift Supervisor
+488,343,2025-12-08,Technical Support
+449,217,2024-12-19,Shift Supervisor
+228,149,2025-12-14,CCTV Reviewer
+318,287,2024-06-11,Shift Supervisor
+403,462,2024-12-16,Shift Supervisor
+381,369,2025-02-26,Incident Owner
+209,295,2025-09-05,Investigator
+33,70,2025-01-22,Incident Owner
+441,383,2026-06-15,Shift Supervisor
+53,244,2026-06-11,CCTV Reviewer
+285,393,2024-10-04,Technical Support
+340,264,2025-09-21,Technical Support
+352,271,2024-10-16,Access Control Reviewer
+488,113,2024-06-29,Incident Owner
+234,300,2025-06-04,Technical Support
+249,354,2024-07-01,CCTV Reviewer
+16,350,2025-04-06,Incident Owner
+269,498,2025-05-08,Shift Supervisor
+31,485,2026-06-15,Shift Supervisor
+318,194,2025-06-15,CCTV Reviewer
+206,380,2024-06-22,Access Control Reviewer
+23,209,2026-01-22,Access Control Reviewer
+187,274,2024-08-01,Technical Support
+495,83,2025-06-24,Technical Support
+371,476,2025-07-28,Technical Support
+64,297,2024-11-26,Shift Supervisor
+125,462,2025-05-02,CCTV Reviewer
+43,356,2024-08-08,Technical Support
+371,387,2025-03-27,Shift Supervisor
+492,497,2024-11-04,Shift Supervisor
+349,23,2024-08-21,Technical Support
+382,177,2024-10-04,CCTV Reviewer
+101,417,2025-04-23,Incident Owner
+432,409,2024-08-28,Shift Supervisor
+391,75,2026-04-01,CCTV Reviewer
+473,78,2025-05-08,Investigator
+177,157,2026-03-05,Access Control Reviewer
+215,76,2026-04-08,Incident Owner
+17,267,2024-05-15,CCTV Reviewer
+7,181,2025-06-06,Technical Support
+496,87,2025-03-13,Technical Support
+175,13,2026-01-24,Incident Owner
+416,108,2026-02-14,Incident Owner
+148,23,2025-03-12,Incident Owner
+20,358,2025-09-26,Investigator
+486,210,2026-05-18,Investigator
+332,214,2024-11-04,Field Security Officer
+382,103,2026-05-13,Technical Support
+148,478,2024-09-07,Technical Support
+496,281,2024-07-01,Investigator
+390,142,2024-11-12,Access Control Reviewer
+450,35,2025-12-26,Access Control Reviewer
+471,450,2026-02-03,Field Security Officer
+94,91,2025-01-01,Incident Owner
+159,80,2025-04-08,Investigator
+396,468,2025-01-27,Investigator
+349,414,2025-11-09,Incident Owner
+168,217,2025-02-22,Shift Supervisor
+385,137,2024-09-04,Shift Supervisor
+494,312,2024-05-17,Shift Supervisor
+482,23,2024-08-17,Investigator
+136,177,2025-10-09,Technical Support
+167,477,2025-09-29,Access Control Reviewer
+449,30,2025-12-21,Shift Supervisor
+268,42,2025-01-23,Field Security Officer
+96,343,2024-05-02,Shift Supervisor
+69,203,2024-09-30,Shift Supervisor
+105,219,2026-06-06,Reporter
+302,394,2025-10-19,Reporter
+216,480,2024-06-18,Field Security Officer
+307,396,2024-10-01,Investigator
+64,451,2024-05-09,Field Security Officer
+52,190,2026-03-13,Shift Supervisor
+426,32,2025-01-13,Investigator
+407,348,2024-10-27,Shift Supervisor
+65,96,2024-06-21,Incident Owner
+464,103,2026-01-20,Incident Owner
+64,61,2025-10-05,Reporter
+366,331,2025-09-06,Incident Owner
+381,220,2025-08-02,Access Control Reviewer
+115,232,2026-01-13,Shift Supervisor
+145,381,2026-06-14,CCTV Reviewer
+215,30,2025-03-03,Access Control Reviewer
+203,158,2024-10-06,Incident Owner
+274,174,2025-05-14,Incident Owner
+2,161,2025-09-28,Field Security Officer
+377,94,2024-07-16,Reporter
+381,211,2025-07-01,Investigator
+118,46,2025-07-21,Reporter
+281,179,2025-01-31,Investigator
+46,441,2025-07-26,Investigator
+151,407,2024-09-18,Reporter
+228,244,2026-05-14,Field Security Officer
+106,372,2024-12-30,Investigator

@@ -1,10 +1,6 @@
 -- 02-seed-data.sql
 -- Initial seed data + CSV import
--- This file runs automatically from Docker because it is placed inside init-db
-
---------------------------------------------------
--- Method 1: Manual INSERT statements
---------------------------------------------------
+-- Updated according to the new 3NF DSD
 
 INSERT INTO roles (role_id, role_name) VALUES
 (1, 'Admin'),
@@ -26,14 +22,6 @@ INSERT INTO locations (location_id, location_name) VALUES
 (3, 'Server Room'),
 (4, 'Parking'),
 (5, 'Main Gate');
-
---------------------------------------------------
--- Methods 2 + 3: Python-generated CSV files + COPY import
---------------------------------------------------
--- IMPORTANT:
--- These paths are correct only when the CSV files are placed inside init-db.
--- docker-compose mounts init-db into /docker-entrypoint-initdb.d inside PostgreSQL.
---------------------------------------------------
 
 COPY roles(role_id, role_name)
 FROM '/docker-entrypoint-initdb.d/roles.csv'
@@ -59,19 +47,19 @@ COPY it_assets(asset_id, asset_type, asset_name, purchase_date, status, location
 FROM '/docker-entrypoint-initdb.d/it_assets.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY incidents(incident_id, title, description, severity, reported_date, status, user_id, camera_id)
+COPY incidents(incident_id, description, reported_date, reported_by_user_id, camera_id)
 FROM '/docker-entrypoint-initdb.d/incidents.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY system_backups(backup_id, backup_type, backup_date, status, user_id)
+COPY system_backups(backup_id, backup_date, backup_type, user_id)
 FROM '/docker-entrypoint-initdb.d/system_backups.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY incident_assignments(assignment_id, assigned_date, role_in_incident, incident_id, user_id)
+COPY incident_assignments(incident_id, user_id, assigned_date, role_in_incident)
 FROM '/docker-entrypoint-initdb.d/incident_assignments.csv'
 DELIMITER ',' CSV HEADER;
 
-COPY access_logs(log_id, access_type, access_time, status, user_id, location_id)
+COPY access_logs(log_id, access_time, status, user_id, camera_id)
 FROM '/docker-entrypoint-initdb.d/access_logs.csv'
 DELIMITER ',' CSV HEADER;
 
