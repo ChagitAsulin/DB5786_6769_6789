@@ -158,13 +158,3 @@ docker exec -t <container_name> pg_dump -U postgres <database_name> > "שלב ב
 
 ---
 
-## יצירת TAG בגיט
-לאחר העלאת התיקייה והקבצים:
-
-```bash
-git add "שלב ב"
-git commit -m "Add stage B queries constraints indexes and report"
-git tag stage-b
-git push
-git push origin stage-b
-```
